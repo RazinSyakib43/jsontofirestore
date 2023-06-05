@@ -1,0 +1,84 @@
+{
+    "Sosis Bakar": {
+        "foods": {
+            "food": [
+                {
+                    "brand_name": "KCB",
+                    "food_description": "Per 1 piece - Calories: 170kcal | Fat: 14.00g | Carbs: 11.00g | Protein: 1.00g",
+                    "food_id": "1988300",
+                    "food_name": "Bakar Khani",
+                    "food_type": "Brand",
+                    "food_url": "https://www.fatsecret.com/calories-nutrition/kcb/bakar-khani"
+                },
+                {
+                    "brand_name": "The Baker",
+                    "food_description": "Per 1 piece - Calories: 120kcal | Fat: 1.00g | Carbs: 24.00g | Protein: 4.00g",
+                    "food_id": "307246",
+                    "food_name": "Wholegrain Pumpernickel Flaxseed Bread",
+                    "food_type": "Brand",
+                    "food_url": "https://www.fatsecret.com/calories-nutrition/the-baker/wholegrain-pumpernickel-flaxseed-bread"
+                },
+                {
+                    "brand_name": "Baker Bros",
+                    "food_description": "Per 1 pizza - Calories: 785kcal | Fat: 49.00g | Carbs: 122.00g | Protein: 98.00g",
+                    "food_id": "3514983",
+                    "food_name": "BBQ Chicken Pizza",
+                    "food_type": "Brand",
+                    "food_url": "https://www.fatsecret.com/calories-nutrition/baker-bros/bbq-chicken-pizza"
+                },
+                {
+                    "brand_name": "Micro Baker",
+                    "food_description": "Per 4 oz - Calories: 85kcal | Fat: 0.00g | Carbs: 20.00g | Protein: 2.00g",
+                    "food_id": "6705510",
+                    "food_name": "Petite Red Potatoes",
+                    "food_type": "Brand",
+                    "food_url": "https://www.fatsecret.com/calories-nutrition/micro-baker/petite-red-potatoes"
+                }
+            ],
+            "max_results": "50",
+            "page_number": "0",
+            "total_results": "42"
+        }
+    },
+    "Ngohiong Ayam Udang": {
+        "foods": {
+            "food": [
+                {
+                    "brand_name": "KCB",
+                    "food_description": "Per 1 piece - Calories: 170kcal | Fat: 14.00g | Carbs: 11.00g | Protein: 1.00g",
+                    "food_id": "1988300",
+                    "food_name": "Bakar Khani",
+                    "food_type": "Brand",
+                    "food_url": "https://www.fatsecret.com/calories-nutrition/kcb/bakar-khani"
+                },
+                {
+                    "brand_name": "The Baker",
+                    "food_description": "Per 1 piece - Calories: 120kcal | Fat: 1.00g | Carbs: 24.00g | Protein: 4.00g",
+                    "food_id": "307246",
+                    "food_name": "Wholegrain Pumpernickel Flaxseed Bread",
+                    "food_type": "Brand",
+                    "food_url": "https://www.fatsecret.com/calories-nutrition/the-baker/wholegrain-pumpernickel-flaxseed-bread"
+                },
+                {
+                    "brand_name": "Baker Bros",
+                    "food_description": "Per 1 pizza - Calories: 785kcal | Fat: 49.00g | Carbs: 122.00g | Protein: 98.00g",
+                    "food_id": "3514983",
+                    "food_name": "BBQ Chicken Pizza",
+                    "food_type": "Brand",
+                    "food_url": "https://www.fatsecret.com/calories-nutrition/baker-bros/bbq-chicken-pizza"
+                },
+                {
+                    "brand_name": "Micro Baker",
+                    "food_description": "Per 4 oz - Calories: 85kcal | Fat: 0.00g | Carbs: 20.00g | Protein: 2.00g",
+                    "food_id": "6705510",
+                    "food_name": "Petite Red Potatoes",
+                    "food_type": "Brand",
+                    "food_url": "https://www.fatsecret.com/calories-nutrition/micro-baker/petite-red-potatoes"
+                }
+            ],
+            "max_results": "50",
+            "page_number": "0",
+            "total_results": "42"
+        }
+    }
+}

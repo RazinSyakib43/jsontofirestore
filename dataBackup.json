@@ -1,0 +1,139 @@
+{
+    "__collections__": {
+        "dataDiri": {
+            "syPmgfJWuY5X57uQSaL8": {
+                "birthdate": "2001-4-3",
+                "nama": "hambar",
+                "gender": "Male",
+                "id_user": "1",
+                "foto_profile": "https://example.com/profile1.jpg",
+                "nomor_hp": "1212121212",
+                "email": "hambarr2@gmail.com",
+                "__collections__": {}
+            }
+        },
+        "food": {
+            "5912605": {
+                "food_name": "Beef Rendang",
+                "servings": {
+                    "serving": {
+                        "calcium": "73"
+                    }
+                },
+                "food_type": [
+                    "Generic",
+                    "Dry",
+                    "Meat",
+                    "Rendang",
+                    "Beef"
+                ],
+                "food_id": "5912605",
+                "food_url": "https:\\/\\/www.fatsecret.com\\/calories-nutrition\\/generic\\/beef-rendang",
+                "img_url": "dgfdgdfgdfg",
+                "__collections__": {}
+            }
+        },
+        "userPreferences": {
+            "111aasdasddasddasd4353rfdsfwefdsfsdfrwe453453454": {
+                "id_user": "111aasdasddasddasd4353rfdsfwefdsfsdfrwe453453454",
+                "birthdate": "12 March 2002",
+                "disease": [
+                    "Hipertensi"
+                ],
+                "gender": "Female",
+                "favoriteFood": [
+                    "Beef"
+                ],
+                "weight": "30",
+                "activityLevel": "4.6",
+                "goals": "Increasing Weight",
+                "height": "150",
+                "__collections__": {}
+            },
+            "11adasddasd4353rfdsfwefdsfsdfrwe453453454": {
+                "birthdate": "8 March 2002",
+                "disease": [
+                    "diabetes",
+                    "Obesitas"
+                ],
+                "gender": "Male",
+                "favoriteFood": [
+                    "soup",
+                    "chicken"
+                ],
+                "weight": "41",
+                "id_user": "11adasddasd4353rfdsfwefdsfsdfrwe453453454",
+                "activityLevel": "1.2",
+                "goals": "Maintaining Weight",
+                "height": "165",
+                "__collections__": {}
+            },
+            "11dasd4353rfdsfwefdsfsdfrwe453453454": {
+                "birthdate": "8 March 2002",
+                "disease": [
+                    "diabetes",
+                    "Obesitas"
+                ],
+                "gender": "Male",
+                "favoriteFood": [
+                    "soup",
+                    "chicken"
+                ],
+                "weight": "41",
+                "id_user": "11dasd4353rfdsfwefdsfsdfrwe453453454",
+                "activityLevel": "1.2",
+                "goals": "Maintaining Weight",
+                "height": "165",
+                "__collections__": {}
+            },
+            "211aasdasddasddasd4353rfdsfwefdsfsdfrwe453453454": {
+                "birthdate": "8 March 2002",
+                "disease": [
+                    "diabetes",
+                    "Obesitas"
+                ],
+                "gender": "Male",
+                "favoriteFood": [
+                    "soup",
+                    "chicken"
+                ],
+                "weight": "41",
+                "id_user": "211aasdasddasddasd4353rfdsfwefdsfsdfrwe453453454",
+                "activityLevel": "1.2",
+                "goals": "Maintaining Weight",
+                "height": "165",
+                "__collections__": {}
+            },
+            "21sd1aasdasddasddasd4353rfdsfwefdsfsdfrwe453453454": {
+                "birthdate": "8 March 2002",
+                "disease": [
+                    "diabetes",
+                    "Obesitas"
+                ],
+                "gender": "Male",
+                "favoriteFood": [
+                    "soup",
+                    "chicken"
+                ],
+                "weight": "41",
+                "id_user": "21sd1aasdasddasddasd4353rfdsfwefdsfsdfrwe453453454",
+                "activityLevel": "1.2",
+                "goals": "Maintaining Weight",
+                "height": "165",
+                "__collections__": {}
+            },
+            "2ss1sd1aasdasddasddasd4353rfdsfwefdsfsdfrwe453453454": {
+                "birthdate": "8 March 2002",
+                "disease": "diabetes, Obesitas",
+                "gender": "Male",
+                "favoriteFood": "soup, chicken",
+                "weight": "41",
+                "id_user": "2ss1sd1aasdasddasddasd4353rfdsfwefdsfsdfrwe453453454",
+                "activityLevel": "1.2",
+                "goals": "Maintaining Weight",
+                "height": "165",
+                "__collections__": {}
+            }
+        }
+    }
+}

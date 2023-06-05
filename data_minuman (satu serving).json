@@ -1,0 +1,391 @@
+{
+    "drink": [
+        {
+            "food_id": "35883",
+            "food_name": "Orange Juice",
+            "food_type": [
+                "Generic",
+                "Juice",
+                "Orange",
+                "Citrus",
+                "Sweet",
+                "Fruit"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/usda/orange-juice",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "27",
+                        "calories": "112",
+                        "carbohydrate": "25.79",
+                        "cholesterol": "0",
+                        "fat": "0.50",
+                        "fiber": "0.5",
+                        "iron": "0.50",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "248.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.089",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.099",
+                        "potassium": "496",
+                        "protein": "1.74",
+                        "saturated_fat": "0.060",
+                        "serving_description": "1 cup",
+                        "serving_id": "33219",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/usda/orange-juice?portionid=33219&portionamount=1.000",
+                        "sodium": "2",
+                        "sugar": "20.83",
+                        "vitamin_a": "25",
+                        "vitamin_c": "124.0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "5608",
+            "food_name": "Strawberry Juice",
+            "food_type": [
+                "Generic",
+                "Juice",
+                "Strawberry",
+                "Sweet",
+                "Fruit"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/strawberry-juice",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "28",
+                        "calories": "90",
+                        "carbohydrate": "18.49",
+                        "cholesterol": "0",
+                        "fat": "1.42",
+                        "fiber": "0.2",
+                        "iron": "1.14",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "237.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.137",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.815",
+                        "potassium": "320",
+                        "protein": "0.71",
+                        "saturated_fat": "0.043",
+                        "serving_description": "1 cup",
+                        "serving_id": "20043",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/strawberry-juice?portionid=20043&portionamount=1.000",
+                        "sodium": "2",
+                        "sugar": "18.25",
+                        "vitamin_a": "19",
+                        "vitamin_c": "26.8"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "5589",
+            "food_name": "Apple Juice",
+                        "food_type": [
+                            "Generic",
+                            "Juice",
+                            "Apple",
+                            "Sweet",
+                            "Fruit"
+                        ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/apple-juice",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "17",
+                        "calories": "117",
+                        "carbohydrate": "28.97",
+                        "cholesterol": "0",
+                        "fat": "0.27",
+                        "fiber": "0.2",
+                        "iron": "0.92",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "248.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.012",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.082",
+                        "potassium": "295",
+                        "protein": "0.15",
+                        "saturated_fat": "0.047",
+                        "serving_description": "1 cup",
+                        "serving_id": "20261",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/apple-juice?portionid=20261&portionamount=1.000",
+                        "sodium": "7",
+                        "sugar": "27.03",
+                        "vitamin_a": "0",
+                        "vitamin_c": "27.5"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "5599",
+            "food_name": "Papaya Juice",
+                                    "food_type": [
+                                        "Generic",
+                                        "Juice",
+                                        "Papaya",
+                                        "Sweet",
+                                        "Fruit"
+                                    ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/papaya-juice",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "25",
+                        "calories": "141",
+                        "carbohydrate": "35.84",
+                        "cholesterol": "0",
+                        "fat": "0.37",
+                        "fiber": "1.5",
+                        "iron": "0.84",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "247.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.101",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.086",
+                        "potassium": "77",
+                        "protein": "0.42",
+                        "saturated_fat": "0.116",
+                        "serving_description": "1 cup",
+                        "serving_id": "18661",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/papaya-juice?portionid=18661&portionamount=1.000",
+                        "sodium": "12",
+                        "sugar": "34.36",
+                        "vitamin_a": "44",
+                        "vitamin_c": "7.4"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "37885",
+            "food_name": "Tea (Brewed)",
+            "food_type": [
+                "Generic",
+                "Beverage",
+                "Tea"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/usda/tea-(brewed)",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "0",
+                        "calories": "2",
+                        "carbohydrate": "0.71",
+                        "cholesterol": "0",
+                        "fat": "0",
+                        "fiber": "0",
+                        "iron": "0.05",
+                        "measurement_description": "cup (8 fl oz)",
+                        "metric_serving_amount": "237.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.002",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.009",
+                        "potassium": "88",
+                        "protein": "0",
+                        "saturated_fat": "0.005",
+                        "serving_description": "1 cup (8 fl oz)",
+                        "serving_id": "36861",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/usda/tea-(brewed)?portionid=36861&portionamount=1.000",
+                        "sodium": "7",
+                        "sugar": "0",
+                        "vitamin_a": "0",
+                        "vitamin_c": "0.0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "7331",
+            "food_name": "Coffee",
+            "food_type": [
+                "Generic",
+                "Beverage",
+                "Coffee"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/coffee",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "4",
+                        "calories": "2",
+                        "carbohydrate": "0.07",
+                        "cholesterol": "0",
+                        "fat": "0.04",
+                        "fiber": "0",
+                        "iron": "0.04",
+                        "measurement_description": "coffee cup (6 fl oz)",
+                        "metric_serving_amount": "177.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.021",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.002",
+                        "potassium": "83",
+                        "protein": "0.21",
+                        "saturated_fat": "0.004",
+                        "serving_description": "1 coffee cup (6 fl oz)",
+                        "serving_id": "27325",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/coffee?portionid=27325&portionamount=1.000",
+                        "sodium": "4",
+                        "sugar": "0",
+                        "vitamin_a": "0",
+                        "vitamin_c": "0.0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "2479602",
+            "food_name": "Coffee with Milk",
+            "food_type": [
+                "Generic",
+                "Beverage",
+                "Coffee",
+                "Milk"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/coffee-with-milk",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "14",
+                        "calories": "8",
+                        "carbohydrate": "1.13",
+                        "cholesterol": "0",
+                        "fat": "0.20",
+                        "fiber": "0",
+                        "iron": "0.10",
+                        "measurement_description": "mug (8 fl oz)",
+                        "metric_serving_amount": "237.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.046",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.015",
+                        "potassium": "83",
+                        "protein": "0.44",
+                        "saturated_fat": "0.110",
+                        "serving_description": "1 mug (8 fl oz)",
+                        "serving_id": "2423065",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/coffee-with-milk?portionid=2423065&portionamount=1.000",
+                        "sodium": "8",
+                        "sugar": "0.30",
+                        "vitamin_a": "1",
+                        "vitamin_c": "0",
+                        "vitamin_d": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "2479605",
+            "food_name": "Coffee with Sugar",
+            "food_type": [
+                "Generic",
+                "Beverage",
+                "Coffee",
+                "Sugar"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/coffee-with-sugar",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "5",
+                        "calories": "29",
+                        "carbohydrate": "7.12",
+                        "cholesterol": "0",
+                        "fat": "0.01",
+                        "fiber": "0",
+                        "iron": "0.07",
+                        "measurement_description": "coffee cup (6 fl oz)",
+                        "metric_serving_amount": "177.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.001",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.003",
+                        "potassium": "55",
+                        "protein": "0.19",
+                        "saturated_fat": "0.003",
+                        "serving_description": "1 coffee cup (6 fl oz)",
+                        "serving_id": "2423081",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/coffee-with-sugar?portionid=2423081&portionamount=1.000",
+                        "sodium": "4",
+                        "sugar": "6.47",
+                        "vitamin_a": "0",
+                        "vitamin_c": "0"
+                    },
+                    {
+                        "calcium": "7",
+                        "calories": "39",
+                        "carbohydrate": "9.54",
+                        "cholesterol": "0",
+                        "fat": "0.01",
+                        "fiber": "0",
+                        "iron": "0.10",
+                        "measurement_description": "mug (8 fl oz)",
+                        "metric_serving_amount": "237.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.001",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.004",
+                        "potassium": "74",
+                        "protein": "0.25",
+                        "saturated_fat": "0.004",
+                        "serving_description": "1 mug (8 fl oz)",
+                        "serving_id": "2423082",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/coffee-with-sugar?portionid=2423082&portionamount=1.000",
+                        "sodium": "6",
+                        "sugar": "8.66",
+                        "vitamin_a": "0",
+                        "vitamin_c": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "37922",
+            "food_name": "Water",
+            "food_type": [
+                "Generic",
+                "Beverage"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/usda/water",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "5",
+                        "calories": "0",
+                        "carbohydrate": "0",
+                        "cholesterol": "0",
+                        "fat": "0",
+                        "fiber": "0",
+                        "iron": "0.0",
+                        "measurement_description": "cup (8 fl oz)",
+                        "metric_serving_amount": "237.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0",
+                        "potassium": "0",
+                        "protein": "0",
+                        "saturated_fat": "0",
+                        "serving_description": "1 cup (8 fl oz)",
+                        "serving_id": "36941",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/usda/water?portionid=36941&portionamount=1.000",
+                        "sodium": "5",
+                        "sugar": "0",
+                        "vitamin_a": "0",
+                        "vitamin_c": "0.0"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,1970 @@
+{
+    "food": [
+        {
+            "food_id": "5912605",
+            "food_name": "Beef Rendang",
+            "food_type": [
+                "Generic",
+                "dry",
+                "Meat",
+                "Rendang",
+                "Beef"
+            ],
+            "food_url": "https:\/\/www.fatsecret.com\/calories-nutrition\/generic\/beef-rendang",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "73",
+                        "calories": "468",
+                        "carbohydrate": "10.78",
+                        "cholesterol": "69",
+                        "fat": "26.57",
+                        "fiber": "4.2",
+                        "iron": "5.71",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "240.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "6.498",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "1.925",
+                        "potassium": "894",
+                        "protein": "47.23",
+                        "saturated_fat": "15.558",
+                        "serving_description": "1 cup",
+                        "serving_id": "5737371",
+                        "serving_url": "https:\/\/www.fatsecret.com\/calories-nutrition\/generic\/beef-rendang?portionid=5737371&portionamount=1.000",
+                        "sodium": "442",
+                        "sugar": "3.14",
+                        "vitamin_a": "6",
+                        "vitamin_c": "14.5"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "14961724",
+            "food_name": "Soto Ayam",
+            "food_type": [
+                "Generic",
+                "Soup",
+                "Chicken"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/soup-soto-ayam",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "45",
+                        "calories": "312",
+                        "carbohydrate": "19.55",
+                        "cholesterol": "129",
+                        "fat": "14.92",
+                        "fiber": "1.7",
+                        "iron": "3.22",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "241.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "5.738",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "3.601",
+                        "potassium": "298",
+                        "protein": "24.01",
+                        "saturated_fat": "3.859",
+                        "serving_description": "1 cup",
+                        "serving_id": "14150714",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/soup-soto-ayam?portionid=14150714&portionamount=1.000",
+                        "sodium": "210",
+                        "sugar": "0.98",
+                        "vitamin_a": "66",
+                        "vitamin_c": "3.5"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "Indomie",
+            "food_id": "138036",
+            "food_name": "Mie Goreng Instant Noodles",
+            "food_type": [
+                "Brand",
+                "Fried Noodles",
+                "Noodles",
+                "Instant"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/indomie/mie-goreng-instant-noodles",
+            "servings": {
+                "serving": [
+                    {
+                        "calories": "220",
+                        "carbohydrate": "25.00",
+                        "cholesterol": "0",
+                        "fat": "8.00",
+                        "fiber": "1.0",
+                        "measurement_description": "serving",
+                        "metric_serving_amount": "40.000",
+                        "metric_serving_unit": "g",
+                        "number_of_units": "1.000",
+                        "protein": "4.00",
+                        "saturated_fat": "4.500",
+                        "serving_description": "1 packet",
+                        "serving_id": "176765",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/indomie/mie-goreng-instant-noodles",
+                        "sodium": "420",
+                        "sugar": "4.00"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "Indomie",
+            "food_id": "41923300",
+            "food_name": "Rasa Ayam Bawang",
+            "food_type": [
+                "Soup",
+                "Noodles",
+                "Instant"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/indomie/rasa-ayam-bawang",
+            "servings": {
+                "serving": [
+                    {
+                        "calories": "300",
+                        "carbohydrate": "43.00",
+                        "fat": "11.00",
+                        "fiber": "2.0",
+                        "measurement_description": "serving",
+                        "metric_serving_amount": "69.000",
+                        "metric_serving_unit": "g",
+                        "number_of_units": "1.000",
+                        "protein": "7.00",
+                        "saturated_fat": "6.000",
+                        "serving_description": "1 serving",
+                        "serving_id": "36511697",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/indomie/rasa-ayam-bawang",
+                        "sodium": "1330",
+                        "sugar": "3.00"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "Indomie",
+            "food_id": "11343702",
+            "food_name": "Mie Goreng Rasa Soto",
+            "food_type": [
+                "Brand",
+                "Fried Noodles",
+                "Soto Flavored"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/indomie/mie-goreng-rasa-soto",
+            "servings": {
+                "serving": [
+                    {
+                        "calories": "400",
+                        "carbohydrate": "53.00",
+                        "cholesterol": "0",
+                        "fat": "18.00",
+                        "fiber": "8.0",
+                        "measurement_description": "serving",
+                        "metric_serving_amount": "85.000",
+                        "metric_serving_unit": "g",
+                        "number_of_units": "1.000",
+                        "protein": "8.00",
+                        "saturated_fat": "9.000",
+                        "serving_description": "1 serving",
+                        "serving_id": "10785151",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/indomie/mie-goreng-rasa-soto",
+                        "sugar": "3.00"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "12892727",
+            "food_name": "Mie Ayam",
+            "food_type": [
+                "Generic",
+                "Chicken",
+                "Noodles",
+                "Soup"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/noodles-mie-ayam",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "34",
+                        "calories": "421",
+                        "carbohydrate": "46.21",
+                        "cholesterol": "105",
+                        "fat": "18.74",
+                        "fiber": "2.5",
+                        "iron": "3.06",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "240.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "9.298",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "5.207",
+                        "potassium": "143",
+                        "protein": "16.70",
+                        "saturated_fat": "2.372",
+                        "serving_description": "1 cup",
+                        "serving_id": "12226598",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/noodles-mie-ayam?portionid=12226598&portionamount=1.000",
+                        "sodium": "37",
+                        "sugar": "1.32",
+                        "trans_fat": "0.041",
+                        "vitamin_a": "26",
+                        "vitamin_c": "1.8"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "KFC",
+            "food_id": "1855406",
+            "food_name": "Fried Chicken Breast",
+            "food_type": [
+                "Brand",
+                "Brand",
+                "KFC",
+                "Fast Food",
+                "Fried",
+                "Dry",
+                "Chicken",
+                "Poultry"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/kfc/fried-chicken-breast",
+            "servings": {
+                "serving": [
+                    {
+                        "calories": "320",
+                        "carbohydrate": "13.00",
+                        "cholesterol": "110",
+                        "fat": "14.00",
+                        "fiber": "0",
+                        "measurement_description": "serving",
+                        "metric_serving_amount": "163.000",
+                        "metric_serving_unit": "g",
+                        "number_of_units": "1.000",
+                        "protein": "36.00",
+                        "saturated_fat": "5.000",
+                        "serving_description": "1 piece",
+                        "serving_id": "1823212",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/kfc/fried-chicken-breast",
+                        "sodium": "1130",
+                        "sugar": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "KFC",
+            "food_id": "89210",
+            "food_name": "Original Recipe Chicken Leg",
+            "food_type": [
+                "Brand",
+                "Brand",
+                "KFC",
+                "Fast Food",
+                "Fried",
+                "Dry",
+                "Chicken",
+                "Poultry"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/kfc/original-recipe-chicken-leg",
+            "servings": {
+                "serving": [
+                    {
+                        "calories": "120",
+                        "carbohydrate": "3.00",
+                        "cholesterol": "50",
+                        "fat": "7.00",
+                        "fiber": "0",
+                        "measurement_description": "serving",
+                        "number_of_units": "1.000",
+                        "protein": "12.00",
+                        "saturated_fat": "1.500",
+                        "serving_description": "1 piece",
+                        "serving_id": "139867",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/kfc/original-recipe-chicken-leg",
+                        "sodium": "340",
+                        "sugar": "0",
+                        "trans_fat": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "KFC",
+            "food_id": "89212",
+            "food_name": "Original Recipe Chicken Wing",
+            "food_type": [
+                "Brand",
+                "Brand",
+                "KFC",
+                "Fast Food",
+                "Fried",
+                "Dry",
+                "Chicken",
+                "Poultry"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/kfc/original-recipe-chicken-wing",
+            "servings": {
+                "serving": [
+                    {
+                        "calories": "130",
+                        "carbohydrate": "3.00",
+                        "cholesterol": "55",
+                        "fat": "8.00",
+                        "fiber": "0",
+                        "measurement_description": "serving",
+                        "number_of_units": "1.000",
+                        "protein": "10.00",
+                        "saturated_fat": "2.000",
+                        "serving_description": "1 piece",
+                        "serving_id": "139877",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/kfc/original-recipe-chicken-wing",
+                        "sodium": "380",
+                        "sugar": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "KFC",
+            "food_id": "44449478",
+            "food_name": "Spicy Chicken Sandwich",
+            "food_type": [
+                "Brand",
+                "KFC",
+                "Sandwich",
+                "Spicy",
+                "Chicken",
+                "Fast Food"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/kfc/spicy-chicken-sandwich",
+            "servings": {
+                "serving": [
+                    {
+                        "calories": "620",
+                        "carbohydrate": "49.00",
+                        "cholesterol": "85",
+                        "fat": "33.00",
+                        "fiber": "1.0",
+                        "measurement_description": "serving",
+                        "number_of_units": "1.000",
+                        "protein": "34.00",
+                        "saturated_fat": "4.000",
+                        "serving_description": "1 sandwich",
+                        "serving_id": "38385399",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/kfc/spicy-chicken-sandwich",
+                        "sodium": "2140",
+                        "sugar": "6.00",
+                        "trans_fat": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "KFC",
+            "food_id": "45314278",
+            "food_name": "Classic Chicken Sandwich",
+            "food_type": [
+                "Brand",
+                "KFC",
+                "Sandwich",
+                "Chicken",
+                "Fast Food"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/kfc/classic-chicken-sandwich",
+            "servings": {
+                "serving": [
+                    {
+                        "calories": "650",
+                        "carbohydrate": "49.00",
+                        "cholesterol": "90",
+                        "fat": "35.00",
+                        "fiber": "1.0",
+                        "measurement_description": "serving",
+                        "number_of_units": "1.000",
+                        "protein": "34.00",
+                        "saturated_fat": "4.500",
+                        "serving_description": "1 sandwich",
+                        "serving_id": "39003512",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/kfc/classic-chicken-sandwich",
+                        "sodium": "1260",
+                        "sugar": "6.00",
+                        "trans_fat": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "1641",
+            "food_name": "Chicken Breast",
+            "food_type": [
+                "Generic",
+                "Chicken",
+                "Poultry"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/chicken-breast-ns-as-to-skin-eaten",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "12",
+                        "calories": "164",
+                        "carbohydrate": "0",
+                        "cholesterol": "70",
+                        "fat": "6.48",
+                        "fiber": "0",
+                        "iron": "0.89",
+                        "measurement_description": "small breast (yield after cooking, bone removed)",
+                        "metric_serving_amount": "84.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "2.524",
+                        "number_of_units": "0.500",
+                        "polyunsaturated_fat": "1.383",
+                        "potassium": "204",
+                        "protein": "24.82",
+                        "saturated_fat": "1.824",
+                        "serving_description": "1/2 small (yield after cooking, bone removed)",
+                        "serving_id": "5034",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/chicken-breast-ns-as-to-skin-eaten?portionid=5034&portionamount=0.500",
+                        "sodium": "330",
+                        "sugar": "0",
+                        "vitamin_a": "24",
+                        "vitamin_c": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "546030",
+            "food_name": "Beef Meatballs",
+            "food_type": [
+                "Generic",
+                "Meatballs",
+                "Beef"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/meatballs-beef",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "46",
+                        "calories": "202",
+                        "carbohydrate": "7.58",
+                        "cholesterol": "74",
+                        "fat": "13.16",
+                        "fiber": "0.5",
+                        "iron": "1.77",
+                        "measurement_description": "g",
+                        "metric_serving_amount": "100.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "5.607",
+                        "number_of_units": "100.000",
+                        "polyunsaturated_fat": "0.582",
+                        "potassium": "213",
+                        "protein": "12.41",
+                        "saturated_fat": "4.978",
+                        "serving_description": "100 g",
+                        "serving_id": "570250",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/meatballs-beef?portionid=570250&portionamount=100.000",
+                        "sodium": "478",
+                        "sugar": "1.51",
+                        "trans_fat": "0.731",
+                        "vitamin_a": "15",
+                        "vitamin_c": "0.8",
+                        "vitamin_d": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "3013",
+            "food_name": "Chicken Soup",
+            "food_type": [
+                "Generic",
+                "Soup",
+                "Chicken"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/chicken-soup",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "17",
+                        "calories": "75",
+                        "carbohydrate": "9.35",
+                        "cholesterol": "7",
+                        "fat": "2.46",
+                        "fiber": "0.7",
+                        "iron": "0.77",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "241.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "1.109",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.554",
+                        "potassium": "55",
+                        "protein": "4.05",
+                        "saturated_fat": "0.651",
+                        "serving_description": "1 cup",
+                        "serving_id": "12119",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/chicken-soup?portionid=12119&portionamount=1.000",
+                        "sodium": "1106",
+                        "sugar": "0.27",
+                        "vitamin_a": "36",
+                        "vitamin_c": "0.2"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "5099",
+            "food_name": "Fried Rice",
+            "food_type": [
+                "Generic",
+                "Rice",
+                "Stir Frying"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-fried",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "38",
+                        "calories": "333",
+                        "carbohydrate": "41.70",
+                        "cholesterol": "103",
+                        "fat": "12.34",
+                        "fiber": "1.4",
+                        "iron": "2.75",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "198.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "3.776",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "5.344",
+                        "potassium": "202",
+                        "protein": "12.47",
+                        "saturated_fat": "2.251",
+                        "serving_description": "1 cup",
+                        "serving_id": "19064",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-fried?portionid=19064&portionamount=1.000",
+                        "sodium": "822",
+                        "sugar": "1.50",
+                        "vitamin_a": "42",
+                        "vitamin_c": "3.4"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "5100",
+            "food_name": "Chicken Fried Rice",
+            "food_type": [
+                "Generic",
+                "Chicken",
+                "Rice"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-fried-with-chicken",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "38",
+                        "calories": "329",
+                        "carbohydrate": "41.82",
+                        "cholesterol": "105",
+                        "fat": "11.96",
+                        "fiber": "1.4",
+                        "iron": "2.61",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "198.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "5.201",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "3.372",
+                        "potassium": "248",
+                        "protein": "12.45",
+                        "saturated_fat": "2.435",
+                        "serving_description": "1 cup",
+                        "serving_id": "20523",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-fried-with-chicken?portionid=20523&portionamount=1.000",
+                        "sodium": "598",
+                        "sugar": "1.39",
+                        "vitamin_a": "42",
+                        "vitamin_c": "3.0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "4502",
+            "food_name": "Cooked Rice",
+            "food_type": [
+                "Generic",
+                "Rice"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-cooked",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "57",
+                        "calories": "770",
+                        "carbohydrate": "157.55",
+                        "cholesterol": "0",
+                        "fat": "6.10",
+                        "fiber": "2.3",
+                        "iron": "6.73",
+                        "measurement_description": "cup, dry, yields",
+                        "metric_serving_amount": "570.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "2.628",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "1.750",
+                        "potassium": "200",
+                        "protein": "15.05",
+                        "saturated_fat": "1.277",
+                        "serving_description": "1 cup, dry, yields",
+                        "serving_id": "15333",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-cooked?portionid=15333&portionamount=1.000",
+                        "sodium": "2098",
+                        "sugar": "0.28",
+                        "vitamin_a": "46",
+                        "vitamin_c": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "5102",
+            "food_name": "Beef Fried Rice",
+            "food_type": [
+                "Generic",
+                "Rice",
+                "Beef"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-fried-with-beef",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "38",
+                        "calories": "347",
+                        "carbohydrate": "41.94",
+                        "cholesterol": "107",
+                        "fat": "14.00",
+                        "fiber": "1.4",
+                        "iron": "2.93",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "198.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "6.045",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "3.515",
+                        "potassium": "273",
+                        "protein": "12.24",
+                        "saturated_fat": "3.217",
+                        "serving_description": "1 cup",
+                        "serving_id": "19116",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-fried-with-beef?portionid=19116&portionamount=1.000",
+                        "sodium": "645",
+                        "sugar": "1.41",
+                        "vitamin_a": "42",
+                        "vitamin_c": "3.0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "5152",
+            "food_name": "Flavored Rice Mixture",
+            "food_type": [
+                "Generic",
+                "Rice",
+                "Coconut",
+                "Salty"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/flavored-rice-mixture",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "24",
+                        "calories": "277",
+                        "carbohydrate": "44.19",
+                        "cholesterol": "2",
+                        "fat": "8.79",
+                        "fiber": "0.9",
+                        "iron": "2.42",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "218.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "4.192",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "2.224",
+                        "potassium": "98",
+                        "protein": "4.23",
+                        "saturated_fat": "1.899",
+                        "serving_description": "1 cup",
+                        "serving_id": "19287",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/flavored-rice-mixture?portionid=19287&portionamount=1.000",
+                        "sodium": "628",
+                        "sugar": "0.96",
+                        "vitamin_a": "65",
+                        "vitamin_c": "1.3"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "421571",
+            "food_name": "Chinese Fried Rice",
+            "food_type": [
+                "Generic",
+                "Rice",
+                "Coconut",
+                "Salty"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-fried-chinese",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "34",
+                        "calories": "299",
+                        "carbohydrate": "37.52",
+                        "cholesterol": "93",
+                        "fat": "11.11",
+                        "fiber": "1.2",
+                        "iron": "2.48",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "198.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "3.398",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "4.809",
+                        "potassium": "182",
+                        "protein": "11.23",
+                        "saturated_fat": "2.026",
+                        "serving_description": "1 cup",
+                        "serving_id": "451318",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-fried-chinese?portionid=451318&portionamount=1.000",
+                        "sodium": "740",
+                        "sugar": "1.35",
+                        "trans_fat": "0.023",
+                        "vitamin_a": "38",
+                        "vitamin_c": "3.7",
+                        "vitamin_d": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "33797",
+            "food_name": "Fried Egg",
+            "food_type": [
+                "Generic",
+                "Egg",
+                "Fried"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/usda/fried-egg",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "27",
+                        "calories": "92",
+                        "carbohydrate": "0.40",
+                        "cholesterol": "210",
+                        "fat": "7.04",
+                        "fiber": "0",
+                        "iron": "0.91",
+                        "measurement_description": "large",
+                        "metric_serving_amount": "46.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "2.919",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "1.224",
+                        "potassium": "68",
+                        "protein": "6.27",
+                        "saturated_fat": "1.975",
+                        "serving_description": "1 large",
+                        "serving_id": "29450",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/usda/fried-egg?portionid=29450&portionamount=1.000",
+                        "sodium": "94",
+                        "sugar": "0.38",
+                        "vitamin_a": "91",
+                        "vitamin_c": "0.0",
+                        "vitamin_d": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "39866",
+            "food_name": "Scrambled Egg",
+            "food_type": [
+                "Generic",
+                "Egg",
+                "Scrambled"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/usda/scrambled-egg",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "54",
+                        "calories": "199",
+                        "carbohydrate": "1.96",
+                        "cholesterol": "400",
+                        "fat": "15.21",
+                        "fiber": "0",
+                        "iron": "2.43",
+                        "measurement_description": "eggs",
+                        "metric_serving_amount": "94.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "5.536",
+                        "number_of_units": "2.000",
+                        "polyunsaturated_fat": "1.851",
+                        "potassium": "138",
+                        "protein": "13.01",
+                        "saturated_fat": "5.784",
+                        "serving_description": "2 eggs",
+                        "serving_id": "40472",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/usda/scrambled-egg?portionid=40472&portionamount=2.000",
+                        "sodium": "211",
+                        "sugar": "1.43",
+                        "vitamin_a": "210",
+                        "vitamin_c": "3.1",
+                        "vitamin_d": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "3094",
+            "food_name": "Boiled Egg",
+            "food_type": [
+                "Generic",
+                "Egg",
+                "Boiled"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/egg-whole-boiled",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "68",
+                        "calories": "209",
+                        "carbohydrate": "1.52",
+                        "cholesterol": "574",
+                        "fat": "14.37",
+                        "fiber": "0",
+                        "iron": "1.62",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "136.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "5.523",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "1.915",
+                        "potassium": "171",
+                        "protein": "17.04",
+                        "saturated_fat": "4.425",
+                        "serving_description": "1 cup",
+                        "serving_id": "10853",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/egg-whole-boiled?portionid=10853&portionamount=1.000",
+                        "sodium": "378",
+                        "sugar": "1.52",
+                        "vitamin_a": "228",
+                        "vitamin_c": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "1794",
+            "food_name": "Fried Battered Duck",
+            "food_type": [
+                "Generic",
+                "Fried",
+                "Duck",
+                "Poultry"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/duck-battered-fried",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "25",
+                        "calories": "309",
+                        "carbohydrate": "9.60",
+                        "cholesterol": "146",
+                        "fat": "15.29",
+                        "fiber": "0.3",
+                        "iron": "4.12",
+                        "measurement_description": "cup, cooked, diced",
+                        "metric_serving_amount": "140.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "4.976",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "2.909",
+                        "potassium": "371",
+                        "protein": "31.22",
+                        "saturated_fat": "4.959",
+                        "serving_description": "1 cup diced",
+                        "serving_id": "6954",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/duck-battered-fried?portionid=6954&portionamount=1.000",
+                        "sodium": "483",
+                        "sugar": "0.20",
+                        "vitamin_a": "38",
+                        "vitamin_c": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "Samyang",
+            "food_id": "15050846",
+            "food_name": "Hot Chicken Flavor Ramen",
+            "food_type": [
+                "Brand",
+                "Chicken",
+                "Ramen",
+                "Spicy",
+                "Soup"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/samyang/hot-chicken-flavor-ramen",
+            "servings": {
+                "serving": [
+                    {
+                        "added_sugars": "6.00",
+                        "calcium": "50",
+                        "calories": "530",
+                        "carbohydrate": "85.00",
+                        "cholesterol": "0",
+                        "fat": "16.00",
+                        "fiber": "1.0",
+                        "iron": "0.50",
+                        "measurement_description": "serving",
+                        "metric_serving_amount": "140.000",
+                        "metric_serving_unit": "g",
+                        "number_of_units": "1.000",
+                        "potassium": "225",
+                        "protein": "12.00",
+                        "saturated_fat": "8.000",
+                        "serving_description": "1 package",
+                        "serving_id": "14233258",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/samyang/hot-chicken-flavor-ramen",
+                        "sodium": "0",
+                        "sugar": "7.00",
+                        "trans_fat": "0",
+                        "vitamin_d": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "Samyang",
+            "food_id": "67001331",
+            "food_name": "Jjajang Ramen",
+            "food_type": [
+                "Brand",
+                "Chicken",
+                "Ramen",
+                "Spicy",
+                "Soup"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/samyang/jjajang-ramen",
+            "servings": {
+                "serving": [
+                    {
+                        "added_sugars": "6.00",
+                        "calcium": "40",
+                        "calories": "540",
+                        "carbohydrate": "85.00",
+                        "cholesterol": "0",
+                        "fat": "16.00",
+                        "fiber": "7.0",
+                        "iron": "1.00",
+                        "measurement_description": "serving",
+                        "metric_serving_amount": "140.000",
+                        "metric_serving_unit": "g",
+                        "number_of_units": "1.000",
+                        "potassium": "250",
+                        "protein": "14.00",
+                        "saturated_fat": "7.000",
+                        "serving_description": "1 bag",
+                        "serving_id": "55020033",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/samyang/jjajang-ramen",
+                        "sodium": "1240",
+                        "sugar": "8.00",
+                        "trans_fat": "0",
+                        "vitamin_d": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "4926",
+            "food_name": "Steamed Dumpling (Filled with Meat Poultry or Seafood)",
+            "food_type": [
+                "Generic",
+                "Dumpling",
+                "Steamed"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/dumpling-steamed-filled-with-meat-poultry-or-seafood",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "19",
+                        "calories": "112",
+                        "carbohydrate": "9.56",
+                        "cholesterol": "48",
+                        "fat": "2.64",
+                        "fiber": "0.5",
+                        "iron": "1.38",
+                        "measurement_description": "g",
+                        "metric_serving_amount": "100.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.971",
+                        "number_of_units": "100.000",
+                        "polyunsaturated_fat": "0.542",
+                        "potassium": "188",
+                        "protein": "11.55",
+                        "saturated_fat": "0.740",
+                        "serving_description": "100 g",
+                        "serving_id": "53606",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/dumpling-steamed-filled-with-meat-poultry-or-seafood?portionid=53606&portionamount=100.000",
+                        "sodium": "435",
+                        "sugar": "0.57",
+                        "vitamin_a": "13",
+                        "vitamin_c": "1.3"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "Wegmans",
+            "food_id": "44155",
+            "food_name": "Chicken Dumplings",
+            "food_type": [
+                "Brand",
+                "Dumpling",
+                "Steamed",
+                "Chicken"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/wegmans/chicken-dumplings",
+            "servings": {
+                "serving": [
+                    {
+                        "calories": "280",
+                        "carbohydrate": "35.00",
+                        "fat": "9.00",
+                        "fiber": "0",
+                        "measurement_description": "serving",
+                        "number_of_units": "1.000",
+                        "protein": "15.00",
+                        "saturated_fat": "0",
+                        "serving_description": "7 pieces",
+                        "serving_id": "94073",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/wegmans/chicken-dumplings",
+                        "sodium": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "1564",
+            "food_name": "Fried Goat",
+            "food_type": [
+                "Generic",
+                "Fried",
+                "Goat"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/goat-fried",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "17",
+                        "calories": "153",
+                        "carbohydrate": "0",
+                        "cholesterol": "73",
+                        "fat": "4.52",
+                        "fiber": "0",
+                        "iron": "3.64",
+                        "measurement_description": "g",
+                        "metric_serving_amount": "100.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "1.692",
+                        "number_of_units": "100.000",
+                        "polyunsaturated_fat": "1.129",
+                        "potassium": "395",
+                        "protein": "26.46",
+                        "saturated_fat": "1.133",
+                        "serving_description": "100 g",
+                        "serving_id": "50244",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/goat-fried?portionid=50244&portionamount=100.000",
+                        "sodium": "402",
+                        "sugar": "0",
+                        "vitamin_a": "0",
+                        "vitamin_c": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "3301",
+            "food_name": "Miso Soup",
+            "food_type": [
+                "Generic",
+                "Soup",
+                "Miso",
+                "Salty"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/soybean-soup-miso-broth",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "62",
+                        "calories": "84",
+                        "carbohydrate": "7.78",
+                        "cholesterol": "0",
+                        "fat": "3.36",
+                        "fiber": "1.9",
+                        "iron": "1.82",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "240.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "1.085",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "1.394",
+                        "potassium": "367",
+                        "protein": "6.02",
+                        "saturated_fat": "0.622",
+                        "serving_description": "1 cup",
+                        "serving_id": "10438",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/soybean-soup-miso-broth?portionid=10438&portionamount=1.000",
+                        "sodium": "998",
+                        "sugar": "2.59",
+                        "vitamin_a": "233",
+                        "vitamin_c": "4.6"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "5206",
+            "food_name": "Rice Soup",
+            "food_type": [
+                "Generic",
+                "Soup",
+                "Rice",
+                "Salty"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-soup",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "7",
+                        "calories": "58",
+                        "carbohydrate": "8.82",
+                        "cholesterol": "2",
+                        "fat": "1.37",
+                        "fiber": "0.7",
+                        "iron": "0.0",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "241.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.602",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.410",
+                        "potassium": "10",
+                        "protein": "2.34",
+                        "saturated_fat": "0.313",
+                        "serving_description": "1 cup",
+                        "serving_id": "18695",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/rice-soup?portionid=18695&portionamount=1.000",
+                        "sodium": "935",
+                        "sugar": "0.70",
+                        "vitamin_a": "0",
+                        "vitamin_c": "0.0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "6254",
+            "food_name": "Mixed Salad Greens",
+            "food_type": [
+                "Generic",
+                "Salad",
+                "Greens",
+                "Mixed",
+                "Vegetables"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/mixed-salad-greens-raw",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "26",
+                        "calories": "9",
+                        "carbohydrate": "1.76",
+                        "cholesterol": "0",
+                        "fat": "0.13",
+                        "fiber": "1.1",
+                        "iron": "0.64",
+                        "measurement_description": "cup, shredded or chopped",
+                        "metric_serving_amount": "55.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.004",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.063",
+                        "potassium": "160",
+                        "protein": "0.84",
+                        "saturated_fat": "0.021",
+                        "serving_description": "1 cup shredded or chopped",
+                        "serving_id": "23236",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/mixed-salad-greens-raw?portionid=23236&portionamount=1.000",
+                        "sodium": "16",
+                        "sugar": "0.48",
+                        "vitamin_a": "139",
+                        "vitamin_c": "8.7"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "38338",
+            "food_name": "Fried Tofu",
+            "food_type": [
+                "Generic",
+                "Tofu",
+                "Fried"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/usda/fried-tofu",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "372",
+                        "calories": "271",
+                        "carbohydrate": "10.49",
+                        "cholesterol": "0",
+                        "fat": "20.18",
+                        "fiber": "3.9",
+                        "iron": "4.87",
+                        "measurement_description": "g",
+                        "metric_serving_amount": "100.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "4.456",
+                        "number_of_units": "100.000",
+                        "polyunsaturated_fat": "11.390",
+                        "potassium": "146",
+                        "protein": "17.19",
+                        "saturated_fat": "2.918",
+                        "serving_description": "100 g",
+                        "serving_id": "61069",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/usda/fried-tofu?portionid=61069&portionamount=100.000",
+                        "sodium": "16",
+                        "sugar": "2.72",
+                        "vitamin_a": "1",
+                        "vitamin_c": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "15040634",
+            "food_name": "Bubur Ayam",
+"food_type": [
+    "Generic",
+    "Porridge",
+    "Chicken"
+],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/bubur-ayam",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "38",
+                        "calories": "372",
+                        "carbohydrate": "36.12",
+                        "cholesterol": "72",
+                        "fat": "12.40",
+                        "fiber": "1.9",
+                        "iron": "2.11",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "240.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "5.040",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "2.955",
+                        "potassium": "406",
+                        "protein": "27.56",
+                        "saturated_fat": "3.352",
+                        "serving_description": "1 cup",
+                        "serving_id": "14223738",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/bubur-ayam?portionid=14223738&portionamount=1.000",
+                        "sodium": "584",
+                        "sugar": "0.19",
+                        "trans_fat": "0.130",
+                        "vitamin_a": "37",
+                        "vitamin_c": "3.3"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "448901",
+            "food_name": "Grilled Chicken",
+"food_type": [
+    "Generic",
+    "Chicken",
+    "Grilled"
+],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/chicken-grilled-ns-as-to-skin-eaten",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "20",
+                        "calories": "320",
+                        "carbohydrate": "0",
+                        "cholesterol": "118",
+                        "fat": "18.21",
+                        "fiber": "0",
+                        "iron": "1.69",
+                        "measurement_description": "cup, cooked, diced",
+                        "metric_serving_amount": "135.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "7.149",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "3.976",
+                        "potassium": "299",
+                        "protein": "36.55",
+                        "saturated_fat": "5.074",
+                        "serving_description": "1 cup diced",
+                        "serving_id": "477441",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/chicken-grilled-ns-as-to-skin-eaten?portionid=477441&portionamount=1.000",
+                        "sodium": "546",
+                        "sugar": "0",
+                        "vitamin_a": "64",
+                        "vitamin_c": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "Fresh & Easy",
+            "food_id": "1304949",
+            "food_name": "Bangers & Mash",
+"food_type": [
+    "Generic",
+    "Sausage",
+    "Mashed Potatoes"
+],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/fresh-and-easy/bangers-and-mash",
+            "servings": {
+                "serving": [
+                    {
+                        "calories": "300",
+                        "carbohydrate": "26.00",
+                        "cholesterol": "45",
+                        "fat": "16.00",
+                        "fiber": "2.0",
+                        "measurement_description": "serving",
+                        "metric_serving_amount": "241.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "7.000",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "9.000",
+                        "protein": "12.00",
+                        "saturated_fat": "7.000",
+                        "serving_description": "1 cup",
+                        "serving_id": "1296882",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/fresh-and-easy/bangers-and-mash",
+                        "sodium": "870",
+                        "sugar": "4.00",
+                        "trans_fat": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "34874",
+            "food_name": "Chicken Broth Soup (Less/Reduced Sodium, Canned)",
+"food_type": [
+    "Generic",
+    "Soup",
+    "Chicken"
+],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/usda/chicken-broth-soup-(less-reduced-sodium-canned)",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "19",
+                        "calories": "17",
+                        "carbohydrate": "0.91",
+                        "cholesterol": "0",
+                        "fat": "0",
+                        "fiber": "0",
+                        "iron": "0.62",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "240.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0",
+                        "potassium": "204",
+                        "protein": "3.26",
+                        "saturated_fat": "0",
+                        "serving_description": "1 cup",
+                        "serving_id": "31786",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/usda/chicken-broth-soup-(less-reduced-sodium-canned)?portionid=31786&portionamount=1.000",
+                        "sodium": "554",
+                        "sugar": "0.53",
+                        "vitamin_a": "0",
+                        "vitamin_c": "1.0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "40125316",
+            "food_name": "Beef Tendon",
+"food_type": [
+    "Generic",
+    "Beef",
+    "Tendon"
+],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/beef-tendon",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "29",
+                        "calories": "322",
+                        "carbohydrate": "0",
+                        "cholesterol": "173",
+                        "fat": "1.36",
+                        "fiber": "0",
+                        "iron": "16.94",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "220.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.210",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.305",
+                        "potassium": "329",
+                        "protein": "76.12",
+                        "saturated_fat": "0.300",
+                        "serving_description": "1 cup",
+                        "serving_id": "35143669",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/beef-tendon?portionid=35143669&portionamount=1.000",
+                        "sodium": "117",
+                        "sugar": "0",
+                        "vitamin_a": "0",
+                        "vitamin_c": "4.9"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "2321",
+            "food_name": "Beef Stroganoff with Noodles",
+"food_type": [
+    "Generic",
+    "Beef",
+    "Stroganoff",
+    "Noodles"
+],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/beef-stroganoff-with-noodles",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "77",
+                        "calories": "335",
+                        "carbohydrate": "22.63",
+                        "cholesterol": "61",
+                        "fat": "18.41",
+                        "fiber": "1.3",
+                        "iron": "2.79",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "256.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "5.568",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "3.412",
+                        "potassium": "381",
+                        "protein": "20.02",
+                        "saturated_fat": "7.081",
+                        "serving_description": "1 cup",
+                        "serving_id": "9638",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/beef-stroganoff-with-noodles?portionid=9638&portionamount=1.000",
+                        "sodium": "794",
+                        "sugar": "1.89",
+                        "vitamin_a": "69",
+                        "vitamin_c": "1.0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "5503803",
+            "food_name": "Tom Yum Soup",
+"food_type": [
+    "Generic",
+    "Soup",
+    "Thai"
+],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/tom-yum-soup",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "21",
+                        "calories": "121",
+                        "carbohydrate": "8.56",
+                        "cholesterol": "37",
+                        "fat": "4.34",
+                        "fiber": "0.4",
+                        "iron": "0.96",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "244.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "1.815",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.918",
+                        "potassium": "273",
+                        "protein": "11.47",
+                        "saturated_fat": "1.205",
+                        "serving_description": "1 cup",
+                        "serving_id": "5348225",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/tom-yum-soup?portionid=5348225&portionamount=1.000",
+                        "sodium": "526",
+                        "sugar": "5.15",
+                        "trans_fat": "0.037",
+                        "vitamin_a": "26",
+                        "vitamin_c": "5.9",
+                        "vitamin_d": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "Southern Tsunami Sushi Bar",
+            "food_id": "80987",
+            "food_name": "Tuna Nigiri",
+"food_type": [
+    "Generic",
+    "Sushi",
+    "Japanese"
+],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/southern-tsunami-sushi-bar/tuna-nigiri",
+            "servings": {
+                "serving": [
+                    {
+                        "calories": "60",
+                        "carbohydrate": "6.00",
+                        "cholesterol": "9",
+                        "fat": "0",
+                        "fiber": "0",
+                        "measurement_description": "serving",
+                        "metric_serving_amount": "38.000",
+                        "metric_serving_unit": "g",
+                        "number_of_units": "1.000",
+                        "protein": "4.00",
+                        "saturated_fat": "0",
+                        "serving_description": "1 piece",
+                        "serving_id": "130267",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/southern-tsunami-sushi-bar/tuna-nigiri",
+                        "sodium": "28",
+                        "sugar": "1.00",
+                        "trans_fat": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "39783",
+            "food_name": "Cooked Soba Japanese Noodles",
+            "food_type": [
+                "Generic",
+                "Noodles",
+                "Japanese"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/usda/cooked-soba-japanese-noodles",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "5",
+                        "calories": "113",
+                        "carbohydrate": "24.44",
+                        "cholesterol": "0",
+                        "fat": "0.11",
+                        "iron": "0.55",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "114.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.030",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.035",
+                        "potassium": "40",
+                        "protein": "5.77",
+                        "saturated_fat": "0.022",
+                        "serving_description": "1 cup",
+                        "serving_id": "40401",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/usda/cooked-soba-japanese-noodles?portionid=40401&portionamount=1.000",
+                        "sodium": "68",
+                        "vitamin_a": "0",
+                        "vitamin_c": "0.0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "619523",
+            "food_name": "Potato Croquettes",
+            "food_type": [
+                "Generic",
+                "Croquettes",
+                "Potato"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/potato-croquettes",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "52",
+                        "calories": "249",
+                        "carbohydrate": "33.04",
+                        "cholesterol": "142",
+                        "fat": "9.24",
+                        "fiber": "2.6",
+                        "iron": "1.49",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "196.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "3.698",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "2.195",
+                        "potassium": "532",
+                        "protein": "8.14",
+                        "saturated_fat": "2.441",
+                        "serving_description": "1 cup",
+                        "serving_id": "641009",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/potato-croquettes?portionid=641009&portionamount=1.000",
+                        "sodium": "511",
+                        "sugar": "2.86",
+                        "vitamin_a": "103",
+                        "vitamin_c": "15.5",
+                        "vitamin_d": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "39945",
+            "food_name": "Hamburger (Single Patty with Condiments)",
+            "food_type": [
+                "Generic",
+                "Sandwich",
+                "Beef",
+                "Fast Food"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/usda/hamburger-(single-patty-with-condiments)",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "126",
+                        "calories": "272",
+                        "carbohydrate": "34.25",
+                        "cholesterol": "30",
+                        "fat": "9.77",
+                        "fiber": "2.3",
+                        "iron": "2.71",
+                        "measurement_description": "sandwich",
+                        "metric_serving_amount": "106.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "3.405",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "1.005",
+                        "potassium": "251",
+                        "protein": "12.32",
+                        "saturated_fat": "3.563",
+                        "serving_description": "1 sandwich",
+                        "serving_id": "40553",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/usda/hamburger-(single-patty-with-condiments)?portionid=40553&portionamount=1.000",
+                        "sodium": "534",
+                        "sugar": "6.70",
+                        "vitamin_a": "4",
+                        "vitamin_c": "2.2"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "1938",
+            "food_name": "Baked or Broiled Fish",
+            "food_type": [
+                "Generic",
+                "Fish",
+                "Baked Dish",
+                "Broiled Dish"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/fish-baked-or-broiled",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "18",
+                        "calories": "171",
+                        "carbohydrate": "0.45",
+                        "cholesterol": "99",
+                        "fat": "4.68",
+                        "fiber": "0",
+                        "iron": "0.48",
+                        "measurement_description": "cup, cooked, flaked",
+                        "metric_serving_amount": "136.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "1.752",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "1.552",
+                        "potassium": "464",
+                        "protein": "29.84",
+                        "saturated_fat": "0.925",
+                        "serving_description": "1 cup flaked",
+                        "serving_id": "6140",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/fish-baked-or-broiled?portionid=6140&portionamount=1.000",
+                        "sodium": "484",
+                        "sugar": "0.11",
+                        "vitamin_a": "64",
+                        "vitamin_c": "2.2"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "1937",
+            "food_name": "Cooked Fish",
+            "food_type": [
+                "Generic",
+                "Fish",
+                "Cooked Dish"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/fish-cooked-ns-as-to-cooking-method",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "19",
+                        "calories": "152",
+                        "carbohydrate": "0",
+                        "cholesterol": "105",
+                        "fat": "1.66",
+                        "fiber": "0",
+                        "iron": "0.49",
+                        "measurement_description": "cup, cooked, flaked",
+                        "metric_serving_amount": "136.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.293",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.674",
+                        "potassium": "487",
+                        "protein": "31.69",
+                        "saturated_fat": "0.359",
+                        "serving_description": "1 cup flaked,",
+                        "serving_id": "6241",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/fish-cooked-ns-as-to-cooking-method?portionid=6241&portionamount=1.000",
+                        "sodium": "579",
+                        "sugar": "0",
+                        "vitamin_a": "33",
+                        "vitamin_c": "0.3"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "450773",
+            "food_name": "Grilled Fish",
+            "food_type": [
+                "Generic",
+                "Fish",
+                "Grilled Dish"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/fish-grilled",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "19",
+                        "calories": "148",
+                        "carbohydrate": "0.38",
+                        "cholesterol": "102",
+                        "fat": "1.60",
+                        "fiber": "0",
+                        "iron": "0.48",
+                        "measurement_description": "cup, cooked, flaked",
+                        "metric_serving_amount": "136.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.283",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.653",
+                        "potassium": "477",
+                        "protein": "30.73",
+                        "saturated_fat": "0.348",
+                        "serving_description": "1 cup flaked",
+                        "serving_id": "479255",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/fish-grilled?portionid=479255&portionamount=1.000",
+                        "sodium": "471",
+                        "sugar": "0.11",
+                        "vitamin_a": "32",
+                        "vitamin_c": "2.3"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "2057",
+            "food_name": "Salmon",
+            "food_type": [
+                "Generic",
+                "Fish"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/salmon-raw",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "60",
+                        "calories": "242",
+                        "carbohydrate": "0",
+                        "cholesterol": "75",
+                        "fat": "9.84",
+                        "fiber": "0",
+                        "iron": "0.93",
+                        "measurement_description": "cup, NFS",
+                        "metric_serving_amount": "166.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "3.542",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "3.307",
+                        "potassium": "702",
+                        "protein": "35.89",
+                        "saturated_fat": "2.092",
+                        "serving_description": "1 cup, NFS",
+                        "serving_id": "6814",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/salmon-raw?portionid=6814&portionamount=1.000",
+                        "sodium": "76",
+                        "sugar": "0",
+                        "vitamin_a": "50",
+                        "vitamin_c": "1.7"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "1966",
+            "food_name": "Fried Battered Catfish",
+            "food_type": [
+                "Generic",
+                "Fish",
+                "Fried Dish",
+                "Catfish"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/catfish-battered-fried",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "41",
+                        "calories": "330",
+                        "carbohydrate": "9.13",
+                        "cholesterol": "76",
+                        "fat": "23.22",
+                        "fiber": "0.3",
+                        "iron": "1.21",
+                        "measurement_description": "cup, cooked, flaked",
+                        "metric_serving_amount": "136.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "10.715",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "5.904",
+                        "potassium": "382",
+                        "protein": "20.17",
+                        "saturated_fat": "5.081",
+                        "serving_description": "1 cup flaked",
+                        "serving_id": "7048",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/catfish-battered-fried?portionid=7048&portionamount=1.000",
+                        "sodium": "144",
+                        "sugar": "0.56",
+                        "vitamin_a": "19",
+                        "vitamin_c": "0.7"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "16632713",
+            "food_name": "Beef Stew",
+            "food_type": [
+                "Generic",
+                "Stew",
+                "Beef"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/beef-stew",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "33",
+                        "calories": "235",
+                        "carbohydrate": "17.03",
+                        "cholesterol": "57",
+                        "fat": "10.15",
+                        "fiber": "2.6",
+                        "iron": "2.88",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "250.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "3.884",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.506",
+                        "potassium": "623",
+                        "protein": "18.49",
+                        "saturated_fat": "3.720",
+                        "serving_description": "1 cup",
+                        "serving_id": "15698615",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/beef-stew?portionid=15698615&portionamount=1.000",
+                        "sodium": "508",
+                        "sugar": "3.02",
+                        "trans_fat": "0.339",
+                        "vitamin_a": "308",
+                        "vitamin_c": "12.3"
+                    }
+                ]
+            }
+        },
+        {
+            "food_id": "14959488",
+            "food_name": "Lontong Sayur",
+            "food_type": [
+                "Generic",
+                "Rice Cake",
+                "Rice",
+                "Vegetable Dish"
+            ],
+            "food_url": "https://www.fatsecret.com/calories-nutrition/generic/soup-lontong-sayur",
+            "servings": {
+                "serving": [
+                    {
+                        "calcium": "32",
+                        "calories": "214",
+                        "carbohydrate": "35.46",
+                        "cholesterol": "25",
+                        "fat": "5.03",
+                        "fiber": "2.0",
+                        "iron": "1.72",
+                        "measurement_description": "cup",
+                        "metric_serving_amount": "240.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0.345",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0.279",
+                        "potassium": "183",
+                        "protein": "6.67",
+                        "saturated_fat": "4.027",
+                        "serving_description": "1 cup",
+                        "serving_id": "14148595",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/generic/soup-lontong-sayur?portionid=14148595&portionamount=1.000",
+                        "sodium": "155",
+                        "sugar": "1.87",
+                        "vitamin_a": "22",
+                        "vitamin_c": "15.1",
+                        "vitamin_d": "1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "food": [
+        {
+            "brand_name": "Doritos",
+            "food_id": "8843673",
+            "food_name": "Nacho Cheese Tortilla Chips (28g)",
+            "food_type": "Brand",
+            "food_url": "https://www.fatsecret.com/calories-nutrition/doritos/nacho-cheese-tortilla-chips-(28g)",
+            "servings": {
+                "serving": [
+                    {
+                        "added_sugars": "0",
+                        "calcium": "40",
+                        "calories": "150",
+                        "carbohydrate": "18.00",
+                        "cholesterol": "0",
+                        "fat": "8.00",
+                        "fiber": "1.0",
+                        "iron": "0.30",
+                        "measurement_description": "serving",
+                        "metric_serving_amount": "28.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0",
+                        "potassium": "50",
+                        "protein": "2.00",
+                        "saturated_fat": "1.000",
+                        "serving_description": "12 chips",
+                        "serving_id": "8482130",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/doritos/nacho-cheese-tortilla-chips-(28g)",
+                        "sodium": "210",
+                        "sugar": "0",
+                        "trans_fat": "0",
+                        "vitamin_d": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "Cheetos",
+            "food_id": "5155222",
+            "food_name": "Crunchy Cheetos (1 oz)",
+            "food_type": "Brand",
+            "food_url": "https://www.fatsecret.com/calories-nutrition/cheetos/crunchy-cheetos-(1-oz)",
+            "servings": {
+                "serving": [
+                    {
+                        "added_sugars": "0",
+                        "calcium": "15",
+                        "calories": "160",
+                        "carbohydrate": "15.00",
+                        "cholesterol": "0",
+                        "fat": "10.00",
+                        "fiber": "1.0",
+                        "iron": "0.40",
+                        "measurement_description": "serving",
+                        "metric_serving_amount": "1.000",
+                        "metric_serving_unit": "oz",
+                        "monounsaturated_fat": "0",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0",
+                        "potassium": "53",
+                        "protein": "2.00",
+                        "saturated_fat": "1.500",
+                        "serving_description": "1 package",
+                        "serving_id": "5015562",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/cheetos/crunchy-cheetos-(1-oz)",
+                        "sodium": "250",
+                        "sugar": "1.00",
+                        "trans_fat": "0",
+                        "vitamin_a": "0",
+                        "vitamin_c": "0",
+                        "vitamin_d": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "Lay's",
+            "food_id": "1922115",
+            "food_name": "Classic Potato Chips (28.3g)",
+            "food_type": "Brand",
+            "food_url": "https://www.fatsecret.com/calories-nutrition/lays/classic-potato-chips-(283g)",
+            "servings": {
+                "serving": [
+                    {
+                        "added_sugars": "0",
+                        "calcium": "10",
+                        "calories": "160",
+                        "carbohydrate": "15.00",
+                        "cholesterol": "0",
+                        "fat": "10.00",
+                        "fiber": "1.0",
+                        "iron": "0.60",
+                        "measurement_description": "serving",
+                        "metric_serving_amount": "28.300",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "0",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "0",
+                        "potassium": "350",
+                        "protein": "2.00",
+                        "saturated_fat": "1.500",
+                        "serving_description": "1 package",
+                        "serving_id": "1887059",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/lays/classic-potato-chips-(283g)",
+                        "sodium": "170",
+                        "sugar": "1.00",
+                        "trans_fat": "0",
+                        "vitamin_d": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "Oreo",
+            "food_id": "4346687",
+            "food_name": "Chocolate Sandwich Cookies",
+            "food_type": "Brand",
+            "food_url": "https://www.fatsecret.com/calories-nutrition/oreo/chocolate-sandwich-cookies",
+            "servings": {
+                "serving": [
+                    {
+                        "added_sugars": "14.00",
+                        "calcium": "10",
+                        "calories": "160",
+                        "carbohydrate": "25.00",
+                        "cholesterol": "0",
+                        "fat": "7.00",
+                        "fiber": "1.0",
+                        "iron": "1.40",
+                        "measurement_description": "serving",
+                        "metric_serving_amount": "34.000",
+                        "metric_serving_unit": "g",
+                        "monounsaturated_fat": "3.000",
+                        "number_of_units": "1.000",
+                        "polyunsaturated_fat": "1.000",
+                        "potassium": "50",
+                        "protein": "1.00",
+                        "saturated_fat": "2.000",
+                        "serving_description": "3 cookies",
+                        "serving_id": "4231072",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/oreo/chocolate-sandwich-cookies",
+                        "sodium": "140",
+                        "sugar": "14.00",
+                        "trans_fat": "0",
+                        "vitamin_d": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "brand_name": "Orion",
+            "food_id": "1963436",
+            "food_name": "Choco Pie",
+            "food_type": "Brand",
+            "food_url": "https://www.fatsecret.com/calories-nutrition/orion/choco-pie",
+            "servings": {
+                "serving": [
+                    {
+                        "calories": "170",
+                        "carbohydrate": "25.00",
+                        "cholesterol": "0",
+                        "fat": "7.00",
+                        "fiber": "0",
+                        "measurement_description": "serving",
+                        "metric_serving_amount": "39.000",
+                        "metric_serving_unit": "g",
+                        "number_of_units": "1.000",
+                        "protein": "2.00",
+                        "saturated_fat": "4.000",
+                        "serving_description": "1 piece",
+                        "serving_id": "1926564",
+                        "serving_url": "https://www.fatsecret.com/calories-nutrition/orion/choco-pie",
+                        "sodium": "90",
+                        "sugar": "14.00",
+                        "trans_fat": "0"
+                    }
+                ]
+            }
+        }
+    ]
+}
