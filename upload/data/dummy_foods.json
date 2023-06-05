@@ -1,0 +1,920 @@
+[
+{
+  "Sosis Bakar": {
+    "foods": {
+      "food": [
+        {
+          "food_description": "Per 1 piece - Calories: 170kcal | Fat: 14.00g | Carbs: 11.00g | Protein: 1.00g",
+          "food_id": "1988300",
+          "food_name": "Bakar Khani",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/kcb/bakar-khani"
+        },
+        {
+                "food_description": "Per 1 piece - Calories: 120kcal | Fat: 1.00g | Carbs: 24.00g | Protein: 4.00g",
+          "food_id": "307246",
+          "food_name": "Wholegrain Pumpernickel Flaxseed Bread",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/the-baker/wholegrain-pumpernickel-flaxseed-bread"
+        },
+        {
+                 "food_description": "Per 1 pizza - Calories: 785kcal | Fat: 49.00g | Carbs: 122.00g | Protein: 98.00g",
+          "food_id": "3514983",
+          "food_name": "BBQ Chicken Pizza",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/baker-bros/bbq-chicken-pizza"
+        },
+        {
+                  "food_description": "Per 4 oz - Calories: 85kcal | Fat: 0.00g | Carbs: 20.00g | Protein: 2.00g",
+          "food_id": "6705510",
+          "food_name": "Petite Red Potatoes",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/micro-baker/petite-red-potatoes"
+        },
+        {
+                 "food_description": "Per 1 cup - Calories: 201kcal | Fat: 12.00g | Carbs: 18.00g | Protein: 6.00g",
+          "food_id": "6791752",
+          "food_name": "Baked Potato Soup",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/baker-bros/baked-potato-soup"
+        },
+        {
+                 "food_description": "Per 1 muffin - Calories: 150kcal | Fat: 2.00g | Carbs: 27.00g | Protein: 5.00g",
+          "food_id": "245192",
+          "food_name": "English Muffins",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/busy-baker/english-muffins"
+        },
+        {
+                 "food_description": "Per 2 slices - Calories: 100kcal | Fat: 1.50g | Carbs: 18.00g | Protein: 5.00g",
+          "food_id": "3675687",
+          "food_name": "100% Whole Wheat Bread",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/busy-baker/100%25-whole-wheat-bread"
+        },
+        {
+                  "food_description": "Per 1 cup - Calories: 11kcal | Fat: 0.00g | Carbs: 2.00g | Protein: 1.00g",
+          "food_id": "12218615",
+          "food_name": "Collard Greens",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/baker-farms/collard-greens"
+        },
+        {
+                    "food_description": "Per 1/4 cup - Calories: 170kcal | Fat: 15.00g | Carbs: 5.00g | Protein: 6.00g",
+          "food_id": "14458337",
+          "food_name": "Blanched Almond Flour",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/baker-josefs/blanched-almond-flour"
+        },
+        {
+                    "food_description": "Per 1 pie - Calories: 330kcal | Fat: 17.00g | Carbs: 42.00g | Protein: 3.00g",
+          "food_id": "18724425",
+          "food_name": "No Sugar Added Cherry Pie",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/country-baker/no-sugar-added-cherry-pie"
+        },
+        {
+                "food_description": "Per 2 slices - Calories: 150kcal | Fat: 1.00g | Carbs: 30.00g | Protein: 8.00g",
+          "food_id": "41646",
+          "food_name": "9 Grain Whole Wheat Bread",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/the-baker/9-grain-whole-wheat-bread"
+        },
+        {
+                "food_description": "Per 1 slice - Calories: 100kcal | Fat: 2.00g | Carbs: 17.00g | Protein: 3.00g",
+          "food_id": "88464",
+          "food_name": "Pomegranate & Blueberry Organic Bread",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/the-baker/pomegranate-and-blueberry-organic-bread"
+        },
+        {
+                "food_description": "Per 1 roll - Calories: 150kcal | Fat: 1.50g | Carbs: 29.00g | Protein: 5.00g",
+          "food_id": "98136",
+          "food_name": "Honey Cinnamon Raisin Rolls",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/the-baker/honey-cinnamon-raisin-rolls"
+        },
+        {
+                 "food_description": "Per 1 slice - Calories: 110kcal | Fat: 1.00g | Carbs: 22.00g | Protein: 3.00g",
+          "food_id": "2517602",
+          "food_name": "Texas Toast",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/busy-baker/texas-toast"
+        },
+        {
+                "food_description": "Per 1 slice - Calories: 100kcal | Fat: 2.00g | Carbs: 18.00g | Protein: 5.00g",
+          "food_id": "7111922",
+          "food_name": "Wheat & Bran Bread",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/the-baker/wheat-and-bran-bread"
+        },
+        {
+                  "food_description": "Per 2 cups - Calories: 47kcal | Fat: 0.00g | Carbs: 10.00g | Protein: 2.80g",
+          "food_id": "37446448",
+          "food_name": "Kale",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/baker-farms/kale"
+        },
+        {
+                  "food_description": "Per 1 piece - Calories: 80kcal | Fat: 5.00g | Carbs: 1.00g | Protein: 8.00g",
+          "food_id": "427985",
+          "food_name": "Smoked String Cheese",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/baker-brand/smoked-string-cheese"
+        },
+        {
+                "food_description": "Per 1 oz - Calories: 150kcal | Fat: 10.00g | Carbs: 15.00g | Protein: 4.00g",
+          "food_id": "1055946",
+          "food_name": "Pecan Granola",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/the-baker/pecan-granola"
+        },
+        {
+                  "food_description": "Per 1 stick - Calories: 80kcal | Fat: 6.00g | Carbs: 0.00g | Protein: 7.00g",
+          "food_id": "3209095",
+          "food_name": "String Cheese",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/baker-brand/string-cheese"
+        },
+        {
+                    "food_description": "Per 1/4 cup - Calories: 150kcal | Fat: 5.00g | Carbs: 21.00g | Protein: 6.00g",
+          "food_id": "7799302",
+          "food_name": "Organic Coconut Flour",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/baker-josefs/organic-coconut-flour"
+        },
+        {
+                    "food_description": "Per 1/4 cup - Calories: 100kcal | Fat: 0.00g | Carbs: 23.00g | Protein: 1.00g",
+          "food_id": "8293040",
+          "food_name": "Gluten Free All Purpose Flour",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/baker-josefs/gluten-free-all-purpose-flour"
+        },
+        {
+                    "food_description": "Per 1 pie - Calories: 310kcal | Fat: 17.00g | Carbs: 40.00g | Protein: 3.00g",
+          "food_id": "15921659",
+          "food_name": "No Sugar Added Apple Pie",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/country-baker/no-sugar-added-apple-pie"
+        },
+        {
+                    "food_description": "Per 1 pie - Calories: 330kcal | Fat: 17.00g | Carbs: 48.00g | Protein: 3.00g",
+          "food_id": "16045320",
+          "food_name": "No Sugar Added Blueberry Pie",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/country-baker/no-sugar-added-blueberry-pie"
+        },
+        {
+                  "food_description": "Per 1 cup prepared - Calories: 200kcal | Fat: 1.00g | Carbs: 42.00g | Protein: 7.00g",
+          "food_id": "35331539",
+          "food_name": "Macaroni & Cheese Dinner",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/betty-baker/macaroni-cheese-dinner"
+        },
+        {
+                "food_description": "Per 1 slice - Calories: 100kcal | Fat: 2.50g | Carbs: 18.00g | Protein: 6.00g",
+          "food_id": "817842",
+          "food_name": "Wheat & Flax Bread",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/the-baker/wheat-and-flax-bread"
+        },
+        {
+                    "food_description": "Per 1 crumpet - Calories: 80kcal | Fat: 0.00g | Carbs: 17.00g | Protein: 3.00g",
+          "food_id": "3542678",
+          "food_name": "Crumpets",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/gourmet-baker/crumpets"
+        },
+        {
+                "food_description": "Per 1 oz - Calories: 120kcal | Fat: 7.00g | Carbs: 14.00g | Protein: 3.00g",
+          "food_id": "58711",
+          "food_name": "Honey Oat Granola with Almonds",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/the-baker/honey-oat-granola-with-almonds"
+        },
+        {
+                "food_description": "Per 1 piece - Calories: 120kcal | Fat: 0.80g | Carbs: 24.00g | Protein: 4.00g",
+          "food_id": "1491930",
+          "food_name": "Organic Whole Grain Four Grain Bread",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/the-baker/organic-whole-grain-four-grain-bread"
+        },
+        {
+                 "food_description": "Per 1 cup - Calories: 134kcal | Fat: 4.00g | Carbs: 19.00g | Protein: 7.00g",
+          "food_id": "5209932",
+          "food_name": "Black Bean Cup",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/baker-bros/black-bean-cup"
+        },
+        {
+                "food_description": "Per 1 slice - Calories: 100kcal | Fat: 1.50g | Carbs: 18.00g | Protein: 5.00g",
+          "food_id": "4778867",
+          "food_name": "Rye Bread",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/the-baker/rye-bread"
+        },
+        {
+                    "food_description": "Per 1 pie - Calories: 320kcal | Fat: 17.00g | Carbs: 40.00g | Protein: 3.00g",
+          "food_id": "10239162",
+          "food_name": "No Sugar Added Peach Pie",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/country-baker/no-sugar-added-peach-pie"
+        },
+        {
+                "food_description": "Per 1 slice - Calories: 90kcal | Fat: 2.00g | Carbs: 16.00g | Protein: 4.00g",
+          "food_id": "13605050",
+          "food_name": "14 Grain Bread",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/the-baker/14-grain-bread"
+        },
+        {
+                    "food_description": "Per 1 pie - Calories: 330kcal | Fat: 17.00g | Carbs: 42.00g | Protein: 3.00g",
+          "food_id": "19240181",
+          "food_name": "No Sugar Added Lemon Pie",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/country-baker/no-sugar-added-lemon-pie"
+        },
+        {
+                 "food_description": "Per 1 slice - Calories: 100kcal | Fat: 1.50g | Carbs: 18.00g | Protein: 3.00g",
+          "food_id": "31912316",
+          "food_name": "Sourdough Bread",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/busy-baker/sourdough-bread"
+        },
+        {
+          "food_description": "Per 2 oz - Calories: 230kcal | Fat: 13.00g | Carbs: 28.00g | Protein: 3.00g",
+          "food_id": "2631717",
+          "food_name": "Double Chocolate Muffin",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/the-brownie-baker/double-chocolate-muffin"
+        },
+        {
+          "food_description": "Per 1 sllice - Calories: 80kcal | Fat: 2.00g | Carbs: 17.00g | Protein: 1.00g",
+          "food_id": "4033793",
+          "food_name": "Gluten Free Flax Seed Bread",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/the-grainless-baker/gluten-free-flax-seed-bread"
+        },
+        {
+          "food_description": "Per 2 oz - Calories: 230kcal | Fat: 13.00g | Carbs: 28.00g | Protein: 3.00g",
+          "food_id": "2941035",
+          "food_name": "Almond Poppyseed Muffin",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/the-brownie-baker/almond-poppyseed-muffin"
+        },
+        {
+          "food_description": "Per 1 burger  - Calories: 420kcal | Fat: 23.00g | Carbs: 41.00g | Protein: 18.00g",
+          "food_id": "1253955",
+          "food_name": "Single Baker",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/bakers-drive-thru-restaurants/single-baker"
+        },
+        {
+            "food_description": "Per 2 slices - Calories: 160kcal | Fat: 2.50g | Carbs: 32.00g | Protein: 3.00g",
+          "food_id": "27772724",
+          "food_name": "Artisan Baker Multigrain Bread",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/schar/artisan-baker-multigrain-bread"
+        },
+        {
+          "food_description": "Per 1 serving - Calories: 954kcal | Fat: 50.00g | Carbs: 85.00g | Protein: 35.00g",
+          "food_id": "10779077",
+          "food_name": "Giant Stuffed Baker with Meat",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dickeys-barbecue/giant-stuffed-baker-with-meat"
+        },
+        {
+            "food_description": "Per 2 slices - Calories: 180kcal | Fat: 2.00g | Carbs: 38.00g | Protein: 3.00g",
+          "food_id": "13577737",
+          "food_name": "Gluten Free Artisan Baker Multigrain Bread",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/schar/gluten-free-artisan-baker-multigrain-bread"
+        },
+        {
+            "food_description": "Per 2 slices - Calories: 150kcal | Fat: 2.00g | Carbs: 32.00g | Protein: 2.00g",
+          "food_id": "12239880",
+          "food_name": "Gluten Free Artisan Baker White Bread",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/schar/gluten-free-artisan-baker-white-bread"
+        }
+      ],
+      "max_results": "50",
+      "page_number": "0",
+      "total_results": "42"
+    }
+  },
+  "Ngohiong Ayam Udang": {
+    "foods": {
+      "food": [
+        {           
+                "food_description":  "Per 174g - Calories: 305kcal | Fat: 13.59g | Carbs: 33.50g | Protein: 12.11g",
+          "food_id": "12892727",
+          "food_name": "Mie Ayam",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/generic/noodles-mie-ayam"
+        },
+        {
+              "food_description": "Per 1452g - Calories: 1881kcal | Fat: 89.91g | Carbs: 117.81g | Protein: 144.68g",
+          "food_id": "14961724",
+          "food_name": "Soto Ayam",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/generic/soup-soto-ayam"
+        },
+        {
+              "food_description": "Per 1705g - Calories: 2646kcal | Fat: 88.06g | Carbs: 256.58g | Protein: 195.79g",
+          "food_id": "15040634",
+          "food_name": "Bubur Ayam",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/generic/bubur-ayam"
+        },
+        {
+              "food_description": "Per 137g - Calories: 158kcal | Fat: 0.19g | Carbs: 37.51g | Protein: 2.03g",
+          "food_id": "5850",
+          "food_name": "Cooked Puerto Rican Yam",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/generic/yam-puerto-rican-(name)-cooked"
+        },
+        {
+              "food_description": "Per 158g - Calories: 213kcal | Fat: 0.30g | Carbs: 52.40g | Protein: 1.67g",
+          "food_id": "5858",
+          "food_name": "Puerto Rican Style Starchy Vegetables (Viandas, including Green or Ripe Plantains, Tannier, Yam, White Sweetpotato)",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/generic/starchy-vegetables-puerto-rican-style-including-green-or-ripe-plantains-tannier-yam-white-sweetpotato-(viandas)"
+        },
+        {
+              "food_description": "Per 686g - Calories: 2079kcal | Fat: 129.98g | Carbs: 205.27g | Protein: 23.81g",
+          "food_id": "5851",
+          "food_name": "Puerto Rican Style Yam Buns (Bunuelos De Name)",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/generic/yam-buns-puerto-rican-style-(bunuelos-de-name)"
+        },
+        {
+              "food_description": "Per 159g - Calories: 226kcal | Fat: 0.30g | Carbs: 53.85g | Protein: 1.84g",
+          "food_id": "5859",
+          "food_name": "Puerto Rican Style Starchy Vegetables (Viandas, including Yam, White Sweetpotato, Tannier, No Plantain)",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/generic/starchy-vegetables-puerto-rican-style-including-yam-white-sweetpotato-tannier-no-plantain-(viandas)"
+        },
+        {
+              "food_description": "Per 1 serving - Calories: 300kcal | Fat: 11.00g | Carbs: 43.00g | Protein: 7.00g",
+          "food_id": "41923300",
+          "food_name": "Rasa Ayam Bawang",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/indomie/rasa-ayam-bawang"
+        },
+        {
+          "food_description": "Per 100g - Calories: 82kcal | Fat: 0.08g | Carbs: 20.00g | Protein: 1.73g",
+          "food_id": "36420",
+          "food_name": "Hawaii Mountain Yam (Without Salt, Drained, Cooked, Steamed)",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/usda/hawaii-mountain-yam-(without-salt-drained-cooked-steamed)"
+        },
+        {
+              "food_description": "Per 100g - Calories: 118kcal | Fat: 0.17g | Carbs: 27.88g | Protein: 1.53g",
+          "food_id": "36676",
+          "food_name": "Yam",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/usda/yam"
+        },
+        {
+              "food_description": "Per 100g - Calories: 82kcal | Fat: 0.08g | Carbs: 19.99g | Protein: 1.73g",
+          "food_id": "36949",
+          "food_name": "Hawaii Mountain Yam (with Salt, Steamed, Cooked)",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/usda/hawaii-mountain-yam-(with-salt-steamed-cooked)"
+        },
+        {
+              "food_description": "Per 100g - Calories: 67kcal | Fat: 0.10g | Carbs: 16.31g | Protein: 1.34g",
+          "food_id": "36419",
+          "food_name": "Hawaii Mountain Yam",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/usda/hawaii-mountain-yam"
+        },
+        {
+              "food_description": "Per 100g - Calories: 116kcal | Fat: 0.14g | Carbs: 27.58g | Protein: 1.49g",
+          "food_id": "36920",
+          "food_name": "Yam (with Salt, Drained, Cooked, Boiled)",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/usda/yam-(with-salt-drained-cooked-boiled)"
+        },
+        {
+              "food_description": "Per 100g - Calories: 116kcal | Fat: 0.14g | Carbs: 27.58g | Protein: 1.49g",
+          "food_id": "36677",
+          "food_name": "Yam (Without Salt, Drained, Cooked, Boiled, Baked)",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/usda/yam-(without-salt-drained-cooked-boiled-baked)"
+        },
+        {
+           "food_description": "Per 1 bar - Calories: 210kcal | Fat: 16.00g | Carbs: 11.00g | Protein: 9.00g",
+          "food_id": "31871632",
+          "food_name": "Cinnamon Chocolate Dang Bar",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/cinnamon-chocolate-dang-bar"
+        },
+        {
+                 "food_description": "Per 1/4 can - Calories: 75kcal | Fat: 5.00g | Carbs: 1.20g | Protein: 5.90g",
+          "food_id": "8856712",
+          "food_name": "Tuna Mild Mayonnaise",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/ayam-brand/tuna-mild-mayonnaise"
+        },
+        {
+           "food_description": "Per 1 bar - Calories: 210kcal | Fat: 15.00g | Carbs: 11.00g | Protein: 9.00g",
+          "food_id": "28378329",
+          "food_name": "Lemon Matcha Bar",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/lemon-matcha-bar"
+        },
+        {
+           "food_description": "Per 1 bag - Calories: 115kcal | Fat: 7.00g | Carbs: 12.00g | Protein: 1.00g",
+          "food_id": "5367077",
+          "food_name": "Toasted Coconut Chips",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/toasted-coconut-chips"
+        },
+        {
+           "food_description": "Per 1 oz - Calories: 160kcal | Fat: 10.00g | Carbs: 16.00g | Protein: 1.00g",
+          "food_id": "9534056",
+          "food_name": "Toasted Coconut Chips Caramel Sea Salt",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/toasted-coconut-chips-caramel-sea-salt/1-oz"
+        },
+        {
+           "food_description": "Per 1 oz - Calories: 170kcal | Fat: 13.00g | Carbs: 13.00g | Protein: 2.00g",
+          "food_id": "23717370",
+          "food_name": "Toasted Coconut Chips Chocolate Sea Salt",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/toasted-coconut-chips-chocolate-sea-salt"
+        },
+        {
+           "food_description": "Per 1 bar - Calories: 210kcal | Fat: 15.00g | Carbs: 11.00g | Protein: 9.00g",
+          "food_id": "34553370",
+          "food_name": "Peanut Butter Bar",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/peanut-butter-bar"
+        },
+        {
+           "food_description": "Per 1 oz - Calories: 180kcal | Fat: 15.00g | Carbs: 10.00g | Protein: 2.00g",
+          "food_id": "10403768",
+          "food_name": "Toasted Coconut Chips Lightly Salted",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/toasted-coconut-chips-lightly-salted"
+        },
+        {
+           "food_description": "Per 1 bar - Calories: 210kcal | Fat: 16.00g | Carbs: 11.00g | Protein: 9.00g",
+          "food_id": "46101835",
+          "food_name": "Toasted Coconut Bar",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/toasted-coconut-bar"
+        },
+        {
+           "food_description": "Per 37 chips - Calories: 130kcal | Fat: 4.50g | Carbs: 21.00g | Protein: 1.00g",
+          "food_id": "12172999",
+          "food_name": "Onion Chips",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/onion-chips"
+        },
+        {
+           "food_description": "Per 1 oz - Calories: 170kcal | Fat: 12.00g | Carbs: 14.00g | Protein: 1.00g",
+          "food_id": "19947406",
+          "food_name": "Coconut Chips",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/coconut-chips"
+        },
+        {
+           "food_description": "Per 1 oz - Calories: 140kcal | Fat: 7.00g | Carbs: 19.00g | Protein: 1.00g",
+          "food_id": "16459634",
+          "food_name": "Sticky-Rice Chips",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/sticky-rice-chips"
+        },
+        {
+           "food_description": "Per 1 bar - Calories: 210kcal | Fat: 15.00g | Carbs: 11.00g | Protein: 9.00g",
+          "food_id": "27325310",
+          "food_name": "Almond Vanilla Bar",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/almond-vanilla-bar"
+        },
+        {
+           "food_description": "Per 1 bar - Calories: 200kcal | Fat: 15.00g | Carbs: 11.00g | Protein: 9.00g",
+          "food_id": "25810779",
+          "food_name": "Chocolate Sea Salt Bar",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/chocolate-sea-salt-bar"
+        },
+        {
+           "food_description": "Per 25 chips - Calories: 160kcal | Fat: 8.00g | Carbs: 19.00g | Protein: 2.00g",
+          "food_id": "42667106",
+          "food_name": "Thai Rice Chips",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/thai-rice-chips"
+        },
+        {
+           "food_description": "Per 1 bar - Calories: 210kcal | Fat: 15.00g | Carbs: 11.00g | Protein: 9.00g",
+          "food_id": "50454207",
+          "food_name": "Almond Cookie Bar",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/dang/almond-cookie-bar"
+        },
+        {
+                "food_description": "Per 2 oz - Calories: 5kcal | Fat: 0.00g | Carbs: 1.00g | Protein: 0.00g",
+          "food_id": "33422533",
+          "food_name": "Yam Cake",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/shirakiku/yam-cake"
+        },
+        {
+          "food_description": "Per 1 serving - Calories: 343kcal | Fat: 1.00g | Carbs: 77.00g | Protein: 6.00g",
+          "food_id": "2280146",
+          "food_name": "Yam Souffle",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/kandw/yam-souffle"
+        },
+        {
+                "food_description": "Per 1 patty - Calories: 80kcal | Fat: 0.00g | Carbs: 19.00g | Protein: 1.00g",
+          "food_id": "41358508",
+          "food_name": "Yam Patties",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/pictsweet/yam-patties"
+        },
+        {
+              "food_description": "Per 1/2 cup powder - Calories: 470kcal | Fat: 6.00g | Carbs: 103.00g | Protein: 4.00g",
+          "food_id": "5028292",
+          "food_name": "Pounded Yam",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/ola-ola/pounded-yam"
+        },
+        {
+                "food_description": "Per 2 oz - Calories: 5kcal | Fat: 0.00g | Carbs: 1.00g | Protein: 0.00g",
+          "food_id": "25239591",
+          "food_name": "Yam Noodle",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/shirakiku/yam-noodle"
+        },
+        {
+                "food_description": "Per 1 order - Calories: 434kcal | Fat: 16.50g | Carbs: 67.20g | Protein: 3.92g",
+          "food_id": "38542439",
+          "food_name": "Yam Fries",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/fatburger/yam-fries"
+        },
+        {
+                   "food_description": "Per 1 patty - Calories: 70kcal | Fat: 0.00g | Carbs: 16.00g | Protein: 1.00g",
+          "food_id": "2057216",
+          "food_name": "Yam Patties",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/fresh-frozen/yam-patties"
+        },
+        {
+                  "food_description": "Per 1 serving - Calories: 347kcal | Fat: 4.50g | Carbs: 57.90g | Protein: 22.50g",
+          "food_id": "63021366",
+          "food_name": "Yam Taeng",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/real-appeal/yam-taeng"
+        },
+        {
+            "food_description": "Per 1 cup - Calories: 264kcal | Fat: 9.50g | Carbs: 39.70g | Protein: 4.90g",
+          "food_id": "10311880",
+          "food_name": "Hot Cup Asam Laksa",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/maggi/hot-cup-asam-laksa"
+        },
+        {
+                  "food_description": "Per 1 serving - Calories: 140kcal | Fat: 0.00g | Carbs: 26.00g | Protein: 1.00g",
+          "food_id": "55533199",
+          "food_name": "Ube (Purple Yam)",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/real-appeal/ube-(purple-yam)"
+        },
+        {
+          "food_description": "Per 3 oz - Calories: 10kcal | Fat: 0.00g | Carbs: 2.00g | Protein: 0.00g",
+          "food_id": "2007213",
+          "food_name": "Shirataki Yam Noodles",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/jfc/shirataki-yam-noodles"
+        },
+        {
+               "food_description": "Per 1 packet - Calories: 109kcal | Fat: 0.70g | Carbs: 24.60g | Protein: 1.20g",
+          "food_id": "3673559",
+          "food_name": "Yam Mixed Cereal",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/greenmax/yam-mixed-cereal"
+        },
+        {
+          "food_description": "Per 1 serving - Calories: 10kcal | Fat: 0.00g | Carbs: 2.00g | Protein: 0.00g",
+          "food_id": "4260250",
+          "food_name": "Konnyaku (Yam Cake)",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/jfc/konnyaku-(yam-cake)"
+        },
+        {
+                   "food_description": "Per 1 bag - Calories: 240kcal | Fat: 11.00g | Carbs: 31.00g | Protein: 5.00g",
+          "food_id": "895114",
+          "food_name": "True Thai Tom Yam Soup",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/trader-joes/true-thai-tom-yam-soup"
+        },
+        {
+                  "food_description": "Per 2 oz - Calories: 20kcal | Fat: 0.50g | Carbs: 3.00g | Protein: 1.00g",
+          "food_id": "2949248",
+          "food_name": "Shirataki White Yam Noodles",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/house-foods/shirataki-white-yam-noodles"
+        },
+        {
+               "food_description": "Per 1 patty - Calories: 80kcal | Fat: 0.00g | Carbs: 19.00g | Protein: 1.00g",
+          "food_id": "65446215",
+          "food_name": "Sweet Potato Yam Patties",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/flanders/sweet-potato-yam-patties"
+        },
+        {
+                 "food_description": "Per 3.2 oz - Calories: 120kcal | Fat: 2.00g | Carbs: 23.00g | Protein: 2.00g",
+          "food_id": "59681763",
+          "food_name": "Yam Paste Filling Pancake",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/new-health/yam-paste-filling-pancake"
+        },
+        {
+               "food_description": "Per 1 packet - Calories: 129kcal | Fat: 3.30g | Carbs: 18.10g | Protein: 6.80g",
+          "food_id": "3067283",
+          "food_name": "Purple Yam and Black Soybean Powder",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/greenmax/purple-yam-and-black-soybean-powder"
+        },
+        {
+                  "food_description": "Per 1 package - Calories: 0kcal | Fat: 0.00g | Carbs: 5.00g | Protein: 0.00g",
+          "food_id": "9502912",
+          "food_name": "Traditional Shirataki White Yam Noodle Substitute",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/house-foods/traditional-shirataki-white-yam-noodle-substitute"
+        },
+        {
+                "food_description": "Per 1 meal - Calories: 408kcal | Fat: 22.00g | Carbs: 49.00g | Protein: 10.00g",
+          "food_id": "33985040",
+          "food_name": "Thai Style Cashew Spaghetti Squash with Broccoli & Yam (Standard)",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/territory/thai-style-cashew-spaghetti-squash-with-broccoli-yam-(standard)"
+        }
+      ],
+      "max_results": "50",
+      "page_number": "0",
+      "total_results": "50"
+    }
+  },
+  "Rawon Ayam": {
+    "foods": {
+      "food": [
+        {
+          "food_description": "Per 174g - Calories: 305kcal | Fat: 13.59g | Carbs: 33.50g | Protein: 12.11g",
+          "food_id": "12892727",
+          "food_name": "Mie Ayam",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/generic/noodles-mie-ayam"
+        },
+        {
+          "food_description": "Per 1452g - Calories: 1881kcal | Fat: 89.91g | Carbs: 117.81g | Protein: 144.68g",
+          "food_id": "14961724",
+          "food_name": "Soto Ayam",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/generic/soup-soto-ayam"
+        },
+        {
+          "food_description": "Per 1705g - Calories: 2646kcal | Fat: 88.06g | Carbs: 256.58g | Protein: 195.79g",
+          "food_id": "15040634",
+          "food_name": "Bubur Ayam",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/generic/bubur-ayam"
+        },
+        {
+          "food_description": "Per 137g - Calories: 158kcal | Fat: 0.19g | Carbs: 37.51g | Protein: 2.03g",
+          "food_id": "5850",
+          "food_name": "Cooked Puerto Rican Yam",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/generic/yam-puerto-rican-(name)-cooked"
+        },
+        {
+          "food_description": "Per 158g - Calories: 213kcal | Fat: 0.30g | Carbs: 52.40g | Protein: 1.67g",
+          "food_id": "5858",
+          "food_name": "Puerto Rican Style Starchy Vegetables (Viandas, including Green or Ripe Plantains, Tannier, Yam, White Sweetpotato)",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/generic/starchy-vegetables-puerto-rican-style-including-green-or-ripe-plantains-tannier-yam-white-sweetpotato-(viandas)"
+        },
+        {
+          "food_description": "Per 686g - Calories: 2079kcal | Fat: 129.98g | Carbs: 205.27g | Protein: 23.81g",
+          "food_id": "5851",
+          "food_name": "Puerto Rican Style Yam Buns (Bunuelos De Name)",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/generic/yam-buns-puerto-rican-style-(bunuelos-de-name)"
+        },
+        {
+          "food_description": "Per 159g - Calories: 226kcal | Fat: 0.30g | Carbs: 53.85g | Protein: 1.84g",
+          "food_id": "5859",
+          "food_name": "Puerto Rican Style Starchy Vegetables (Viandas, including Yam, White Sweetpotato, Tannier, No Plantain)",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/generic/starchy-vegetables-puerto-rican-style-including-yam-white-sweetpotato-tannier-no-plantain-(viandas)"
+        },
+        {
+              "food_description": "Per 1 serving - Calories: 300kcal | Fat: 11.00g | Carbs: 43.00g | Protein: 7.00g",
+          "food_id": "41923300",
+          "food_name": "Rasa Ayam Bawang",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/indomie/rasa-ayam-bawang"
+        },
+        {
+          "food_description": "Per 100g - Calories: 82kcal | Fat: 0.08g | Carbs: 20.00g | Protein: 1.73g",
+          "food_id": "36420",
+          "food_name": "Hawaii Mountain Yam (Without Salt, Drained, Cooked, Steamed)",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/usda/hawaii-mountain-yam-(without-salt-drained-cooked-steamed)"
+        },
+        {
+          "food_description": "Per 100g - Calories: 118kcal | Fat: 0.17g | Carbs: 27.88g | Protein: 1.53g",
+          "food_id": "36676",
+          "food_name": "Yam",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/usda/yam"
+        },
+        {
+          "food_description": "Per 100g - Calories: 82kcal | Fat: 0.08g | Carbs: 19.99g | Protein: 1.73g",
+          "food_id": "36949",
+          "food_name": "Hawaii Mountain Yam (with Salt, Steamed, Cooked)",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/usda/hawaii-mountain-yam-(with-salt-steamed-cooked)"
+        },
+        {
+          "food_description": "Per 100g - Calories: 67kcal | Fat: 0.10g | Carbs: 16.31g | Protein: 1.34g",
+          "food_id": "36419",
+          "food_name": "Hawaii Mountain Yam",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/usda/hawaii-mountain-yam"
+        },
+        {
+          "food_description": "Per 100g - Calories: 116kcal | Fat: 0.14g | Carbs: 27.58g | Protein: 1.49g",
+          "food_id": "36920",
+          "food_name": "Yam (with Salt, Drained, Cooked, Boiled)",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/usda/yam-(with-salt-drained-cooked-boiled)"
+        },
+        {
+          "food_description": "Per 100g - Calories: 116kcal | Fat: 0.14g | Carbs: 27.58g | Protein: 1.49g",
+          "food_id": "36677",
+          "food_name": "Yam (Without Salt, Drained, Cooked, Boiled, Baked)",
+          "food_type": "Generic",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/usda/yam-(without-salt-drained-cooked-boiled-baked)"
+        },
+        {
+                 "food_description": "Per 1/4 can - Calories: 75kcal | Fat: 5.00g | Carbs: 1.20g | Protein: 5.90g",
+          "food_id": "8856712",
+          "food_name": "Tuna Mild Mayonnaise",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/ayam-brand/tuna-mild-mayonnaise"
+        },
+        {
+                "food_description": "Per 2 oz - Calories: 5kcal | Fat: 0.00g | Carbs: 1.00g | Protein: 0.00g",
+          "food_id": "33422533",
+          "food_name": "Yam Cake",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/shirakiku/yam-cake"
+        },
+        {
+          "food_description": "Per 1 serving - Calories: 343kcal | Fat: 1.00g | Carbs: 77.00g | Protein: 6.00g",
+          "food_id": "2280146",
+          "food_name": "Yam Souffle",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/kandw/yam-souffle"
+        },
+        {
+                "food_description": "Per 1 patty - Calories: 80kcal | Fat: 0.00g | Carbs: 19.00g | Protein: 1.00g",
+          "food_id": "41358508",
+          "food_name": "Yam Patties",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/pictsweet/yam-patties"
+        },
+        {
+              "food_description": "Per 1/2 cup powder - Calories: 470kcal | Fat: 6.00g | Carbs: 103.00g | Protein: 4.00g",
+          "food_id": "5028292",
+          "food_name": "Pounded Yam",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/ola-ola/pounded-yam"
+        },
+        {
+                "food_description": "Per 2 oz - Calories: 5kcal | Fat: 0.00g | Carbs: 1.00g | Protein: 0.00g",
+          "food_id": "25239591",
+          "food_name": "Yam Noodle",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/shirakiku/yam-noodle"
+        },
+        {
+                "food_description": "Per 1 order - Calories: 434kcal | Fat: 16.50g | Carbs: 67.20g | Protein: 3.92g",
+          "food_id": "38542439",
+          "food_name": "Yam Fries",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/fatburger/yam-fries"
+        },
+        {
+                   "food_description": "Per 1 patty - Calories: 70kcal | Fat: 0.00g | Carbs: 16.00g | Protein: 1.00g",
+          "food_id": "2057216",
+          "food_name": "Yam Patties",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/fresh-frozen/yam-patties"
+        },
+        {
+                  "food_description": "Per 1 serving - Calories: 347kcal | Fat: 4.50g | Carbs: 57.90g | Protein: 22.50g",
+          "food_id": "63021366",
+          "food_name": "Yam Taeng",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/real-appeal/yam-taeng"
+        },
+        {
+            "food_description": "Per 1 cup - Calories: 264kcal | Fat: 9.50g | Carbs: 39.70g | Protein: 4.90g",
+          "food_id": "10311880",
+          "food_name": "Hot Cup Asam Laksa",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/maggi/hot-cup-asam-laksa"
+        },
+        {
+                  "food_description": "Per 1 serving - Calories: 140kcal | Fat: 0.00g | Carbs: 26.00g | Protein: 1.00g",
+          "food_id": "55533199",
+          "food_name": "Ube (Purple Yam)",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/real-appeal/ube-(purple-yam)"
+        },
+        {
+          "food_description": "Per 3 oz - Calories: 10kcal | Fat: 0.00g | Carbs: 2.00g | Protein: 0.00g",
+          "food_id": "2007213",
+          "food_name": "Shirataki Yam Noodles",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/jfc/shirataki-yam-noodles"
+        },
+        {
+               "food_description": "Per 1 packet - Calories: 109kcal | Fat: 0.70g | Carbs: 24.60g | Protein: 1.20g",
+          "food_id": "3673559",
+          "food_name": "Yam Mixed Cereal",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/greenmax/yam-mixed-cereal"
+        },
+        {
+          "food_description": "Per 1 serving - Calories: 10kcal | Fat: 0.00g | Carbs: 2.00g | Protein: 0.00g",
+          "food_id": "4260250",
+          "food_name": "Konnyaku (Yam Cake)",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/jfc/konnyaku-(yam-cake)"
+        },
+        {
+                   "food_description": "Per 1 bag - Calories: 240kcal | Fat: 11.00g | Carbs: 31.00g | Protein: 5.00g",
+          "food_id": "895114",
+          "food_name": "True Thai Tom Yam Soup",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/trader-joes/true-thai-tom-yam-soup"
+        },
+        {
+                  "food_description": "Per 2 oz - Calories: 20kcal | Fat: 0.50g | Carbs: 3.00g | Protein: 1.00g",
+          "food_id": "2949248",
+          "food_name": "Shirataki White Yam Noodles",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/house-foods/shirataki-white-yam-noodles"
+        },
+        {
+               "food_description": "Per 1 patty - Calories: 80kcal | Fat: 0.00g | Carbs: 19.00g | Protein: 1.00g",
+          "food_id": "65446215",
+          "food_name": "Sweet Potato Yam Patties",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/flanders/sweet-potato-yam-patties"
+        },
+        {
+                 "food_description": "Per 3.2 oz - Calories: 120kcal | Fat: 2.00g | Carbs: 23.00g | Protein: 2.00g",
+          "food_id": "59681763",
+          "food_name": "Yam Paste Filling Pancake",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/new-health/yam-paste-filling-pancake"
+        },
+        {
+               "food_description": "Per 1 packet - Calories: 129kcal | Fat: 3.30g | Carbs: 18.10g | Protein: 6.80g",
+          "food_id": "3067283",
+          "food_name": "Purple Yam and Black Soybean Powder",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/greenmax/purple-yam-and-black-soybean-powder"
+        },
+        {
+                  "food_description": "Per 1 package - Calories: 0kcal | Fat: 0.00g | Carbs: 5.00g | Protein: 0.00g",
+          "food_id": "9502912",
+          "food_name": "Traditional Shirataki White Yam Noodle Substitute",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/house-foods/traditional-shirataki-white-yam-noodle-substitute"
+        },
+        {
+                "food_description": "Per 1 meal - Calories: 408kcal | Fat: 22.00g | Carbs: 49.00g | Protein: 10.00g",
+          "food_id": "33985040",
+          "food_name": "Thai Style Cashew Spaghetti Squash with Broccoli & Yam (Standard)",
+          "food_type": "Brand",
+          "food_url": "https://www.fatsecret.com/calories-nutrition/territory/thai-style-cashew-spaghetti-squash-with-broccoli-yam-(standard)"
+        }
+      ],
+      "max_results": "50",
+      "page_number": "0",
+      "total_results": "35"
+    }
+  }
+}
+]
